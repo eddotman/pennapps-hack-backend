@@ -25,30 +25,38 @@ def request_form(form, lang):
 
   f_inputs = []
   f_types = []
+  refs = []
 
   for line in txtform:
     u_line = unicode(str(line).decode('latin_1').replace(u"\u2018", "").replace(u"\u2019", "").replace(u"\u201c","").replace(u"\u201d", "").replace(u"\u2014", "-"))
 
-    if search('^([a-zA-Z]|\d)\.', u_line) is not None:
-      if search('(\$|\%|[aA]dd|[sS]ubtract|[mM]ultiply|[iI]ncome|[sS]alary|[wW]ages|[dD]ivid(e|end)|[iI]nterest|less|more|equal)', u_line) is not None:
+    if search('^([a-zA-Z]|\d)\.', u_line):
+      if search('(\$|\%|[aA]dd|[sS]ubtract|[mM]ultiply|[iI]ncome|[sS]alary|[wW]ages|[dD]ivid(e|end)|[iI]nterest|less|more|equal)', u_line):
         f_types.append('currency')
-      elif search('\[*\]', u_line) is not None:
+      elif search('\[*\]', u_line):
         f_types.append('checkbox')
       else:
         f_types.append('text')
       
-      if search('\:', u_line) is not None:
+      if search('\:', u_line):
         u_line = u_line[:u_line.index(":")+1]
-      
+
+      if search('^\d+\.\s*', u_line[:3]):
+        refs.append(u_line[:3])
+        u_line = u_line[3:]
+      else:
+        refs.append(None)
+
       f_inputs.append(u_line)
 
 
   translated_inputs = translate_text(f_inputs, lang)
   
-  for f_input, f_type in zip(translated_inputs, f_types):
+  for f_input, f_type, ref in zip(translated_inputs, f_types, refs):
     new_input = {
       "type": f_type,
       "name": f_input,
+      "ref": ref,
       "value": None,
       "coordinates": [None, None]
     }
