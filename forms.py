@@ -1,5 +1,5 @@
 from flask import jsonify
-from requests import get
+from requests import post
 from os import environ
 from re import match, search
 from json import loads
@@ -40,10 +40,12 @@ def request_form(form, lang):
       if search('\:', u_line) is not None:
         u_line = u_line[:u_line.index(":")+1]
       
-      f_inputs.append(translate_text(u_line, lang))
+      f_inputs.append(u_line)
 
+
+  translated_inputs = translate_text(f_inputs, lang)
   
-  for f_input, f_type in zip(f_inputs, f_types):
+  for f_input, f_type in zip(translated_inputs, f_types):
     new_input = {
       "type": f_type,
       "name": f_input,
@@ -56,5 +58,12 @@ def request_form(form, lang):
 
 
 def translate_text(text, lang):
-  r = get('https://translate.yandex.net/api/v1.5/tr.json/translate?key=' + environ.get('YANDEX_API') + '&lang=' + lang + '&text=' + text)
-  return loads(r.text)['text'][0]
+  data = {
+    'key': environ.get('YANDEX_API'), 
+    'lang': lang,
+    'text': text
+  }
+  r = post('https://translate.yandex.net/api/v1.5/tr.json/translate', data=data)
+  return loads(r.text)['text']
+
+# request_form('f1120w15', 'en-ko')
