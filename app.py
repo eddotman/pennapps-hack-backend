@@ -1,9 +1,11 @@
 from flask import Flask
 from flask_restful import reqparse, abort, Api, Resource
+from flask.ext.cors import CORS
 from forms import (request_form)
 import os
 
 app = Flask(__name__)
+CORS(app)
 api = Api(app)
 
 class Form(Resource):
