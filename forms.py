@@ -1,12 +1,10 @@
-from spacy.en import English
 from flask import jsonify
-
-nlp = English()
+from re import match, search
 
 def request_form(form): 
   txtform = None
   with open('txt/' + form + '.txt', 'rb') as f:
-    txtform = f.read()
+    txtform = f.readlines()
 
   if txtform is None: return 1
 
@@ -22,25 +20,18 @@ def request_form(form):
     ]
   }
 
-  u_txtform = unicode(str(txtform).decode('latin_1'))
-  tokens = nlp(u_txtform)
-  
-  #this check should be last
-  fill_verbs = set(['enter', 'fill', 'provide', 'list'])
-  verbs = [t for t in tokens if (t.pos_ == 'VERB' and str(t.orth_).lower() in fill_verbs)]
-  
-  actions = []
-  for verb in verbs:
-    action = ' '.join([t.orth_ for t in verb.subtree])
-    action = action.replace(u"\u2018", "").replace(u"\u2019", "").replace(u"\u201c","").replace(u"\u201d", "").replace(u"\u2014", "-")
+  f_inputs = []
 
-    if len(list(verb.subtree)) > 1:
-      actions.append(action)
+  for line in txtform:
+    u_line = unicode(str(line).decode('latin_1').replace(u"\u2018", "").replace(u"\u2019", "").replace(u"\u201c","").replace(u"\u201d", "").replace(u"\u2014", "-"))
 
-  for action in actions:
+    if search('^([a-zA-Z]|\d)\.', u_line) is not None:
+      f_inputs.append(u_line)
+  
+  for f_input in f_inputs:
     new_input = {
       "type": "text",
-      "name": action,
+      "name": f_input,
       "value": None,
       "coordinates": [None, None]
     }
