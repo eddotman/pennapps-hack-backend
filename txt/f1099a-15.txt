@@ -1,0 +1,450 @@
+
+Form 1099-A and Instructions 
+Acquisition or Abandonment of Secured Property
+2015
+Cat. No. 33577U
+
+Provided by the:
+Internal Revenue Service
+Alternative Media Center
+
+In 1 File
+Print pages 1-5 and 1-6
+
+Contents
+
+Section:  Page
+Form 1099-A:  1
+   Copy A--For IRS:  1
+   Copy B--For Borrower:  2
+   Instructions for Borrower:  3
+   Copy C--For Lender:  4
+   Instructions for Lender:  5
+2015 Instructions for Forms 1099-A and 1099-C:  1
+   Future Developments:  1
+   What's New:  1
+   Reminder:  1
+   Specific Instructions for Form 1099-A:  1
+      Coordination With Form 1099-C:  1
+      Property:  1
+      Who Must File:  1
+      Abandonment:  2
+      Statements to Borrowers:  2
+   Specific Instructions for Form 1099-C:  2
+      Coordination With Form 1099-A:  3
+      Who Must File:  3
+      Debt Defined:  4
+      When To File:  4
+      When is a Debt Canceled:  4
+      Exceptions:  4
+      Multiple Debtors:  5
+      Recordkeeping:  5
+      Requesting TINs:  5
+      Statements to Debtors:  5
+
+This electronic edition contains the entire text of the print editions.
+
+<page 1>
+
+Form 1099-A
+Acquisition or Abandonment of Secured Property
+2015
+
+Copy A
+For Internal Revenue Service Center
+
+File with Form 1096.
+
+VOID [--]; CORRECTED [--]
+LENDER'S name, street address, city or town, state or province, country, ZIP or foreign postal code, and telephone no.: ----
+LENDER'S federal identification number: ----
+BORROWER'S identification number: ----
+BORROWER'S name: ----
+Street address (including apt. no.): ----
+City or town, state or province, country, and ZIP or foreign postal code: ----
+Account number (see instructions): ----
+
+1. Date of lender's acquisition or knowledge of abandonment: ----
+2. Balance of principal outstanding: $----
+3. (shaded)
+4. Fair market value of property: $----
+5. If checked, the borrower was personally liable for repayment of the debt: [--]
+6. Description of property: ----
+
+For Privacy Act and Paperwork Reduction Act Notice, see the 2015 General Instructions for Certain Information Returns.
+
+<page 2>
+
+Form 1099-A
+Acquisition or Abandonment of Secured Property
+2015
+
+Copy B
+For Borrower
+
+CORRECTED (if checked) [--]
+LENDER'S name, street address, city or town, state or province, country, ZIP or foreign postal code, and telephone no.: ----
+LENDER'S federal identification number: ----
+BORROWER'S identification number: ----
+BORROWER'S name: ----
+Street address (including apt. no.): ----
+City or town, state or province, country, and ZIP or foreign postal code: ----
+Account number (see instructions): ----
+
+1. Date of lender's acquisition or knowledge of abandonment: ----
+2. Balance of principal outstanding: $----
+3. (shaded)
+4. Fair market value of property: $----
+5. If checked, the borrower was personally liable for repayment of the debt: [--]
+6. Description of property: ----
+
+This is important tax information and is being furnished to the Internal Revenue Service.  If you are required to file a return, a negligence penalty or other sanction may be imposed on you if taxable income results from this transaction and the IRS determines that it has not been reported.
+
+<page 3>
+
+Instructions for Borrower
+
+Certain lenders who acquire an interest in property that was security for a loan or who have reason to know that such property has been abandoned must provide you with this statement. You may have reportable income or loss because of such acquisition or abandonment. Gain or loss from an acquisition generally is measured by the difference between your adjusted basis in the property and the amount of your debt canceled in exchange for the property, or, if greater, the sale proceeds. If you abandoned the property, you may have income from the discharge of indebtedness in the amount of the unpaid balance of your canceled debt. The tax consequences of abandoning property depend on whether or not you were personally liable for the debt. Losses on acquisitions or abandonments of property held for personal use are not deductible. See Pub. 4681 for information about your tax consequences.
+
+Property means any real property (such as a personal residence); any intangible property; and tangible personal property that is held for investment or used in a trade or business.
+
+If you borrowed money on this property with someone else, each of you should receive this statement.
+
+Borrower's identification number. For your protection, this form may show only the last four digits of your social security number (SSN), individual taxpayer identification number (ITIN), adoption taxpayer identification number (ATIN), or employer identification number (EIN). However, the issuer has reported your complete identification number to the IRS.
+
+Account number. May show an account or other unique number the lender assigned to distinguish your account.
+
+Box 1. For a lender's acquisition of property that was security for a loan, the date shown is generally the earlier of the date title was transferred to the lender or the date possession and the burdens and benefits of ownership were transferred to the lender. This may be the date of a foreclosure or execution sale or the date your right of redemption or objection expired. For an abandonment, the date shown is the date on which the lender first knew or had reason to know that the property was abandoned or the date of a foreclosure, execution, or similar sale.
+
+Box 2. Shows the debt (principal only) owed to the lender on the loan when the interest in the property was acquired by the lender or on the date the lender first knew or had reason to know that the property was abandoned.
+
+Box 4. Shows the fair market value of the property. If the amount in box 4 is less than the amount in box 2, and your debt is canceled, you may have cancellation of debt income. If the property was your main home, see Pub. 523 to figure any taxable gain or ordinary income.
+
+Box 5. Shows whether you were personally liable for repayment of the debt when the debt was created or, if modified, when it was last modified.
+
+Box 6. Shows the description of the property acquired by the lender or abandoned by you. If "CCC" is shown, the form indicates the amount of any Commodity Credit Corporation loan outstanding when you forfeited your commodity.
+
+Future developments. For the latest information about developments related to Form 1099-A and its instructions, such as legislation enacted after they were published, go to www.irs.gov/form1099a.
+
+<page 4>
+
+Form 1099-A
+Acquisition or Abandonment of Secured Property
+2015
+
+Copy C
+For Lender
+
+VOID [--]; CORRECTED [--]
+LENDER'S name, street address, city or town, state or province, country, ZIP or foreign postal code, and telephone no.: ----
+LENDER'S federal identification number: ----
+BORROWER'S identification number: ----
+BORROWER'S name: ----
+Street address (including apt. no.): ----
+City or town, state or province, country, and ZIP or foreign postal code: ----
+Account number (see instructions): ----
+
+1. Date of lender's acquisition or knowledge of abandonment: ----
+2. Balance of principal outstanding: $----
+3. (shaded)
+4. Fair market value of property: $----
+5. If checked, the borrower was personally liable for repayment of the debt: [--]
+6. Description of property: ----
+
+For Privacy Act and Paperwork Reduction Act Notice, see the 2015 General Instructions for Certain Information Returns.
+
+<page 5>
+
+Instructions for Lender
+
+To complete Form 1099-A, use:
+-- the 2015 General Instructions for Certain Information Returns, and
+-- the 2015 Instructions for Forms 1099-A and 1099-C.
+
+To order these instructions and additional forms, go to www.irs.gov/form1099a or call 1-800-TAX-FORM (1-800-829-3676).
+
+Caution. Because paper forms are scanned during processing, you cannot file Forms 1096, 1097, 1098, 1099, 3921, 3922, or 5498 that you print from the IRS website.
+
+Due Dates. Furnish Copy B of this form to the borrower by February 1, 2016.
+
+File Copy A of this form with the IRS by February 29, 2016. If you file electronically, the due date is March 31, 2016. To file electronically, you must have software that generates a file according to the specifications in Pub. 1220, Specifications for Electronic Filing of Forms 1097, 1098, 1099, 3921, 3922, 5498, and W-2G. The IRS does not provide a fill-in form option.
+
+Need help? If you have questions about reporting on Form 1099-A, call the information reporting customer service site toll free at 1-866-455-7438 or 304-263-8700 (not toll free). Persons with a hearing or speech disability with access to TTY/TDD equipment can call 304-579-4827 (not toll free).
+
+<page 1>
+
+2015 Instructions for Forms 1099-A and 1099-C
+Acquisition or Abandonment of Secured Property and Cancellation of Debt
+
+Section references are to the Internal Revenue Code unless otherwise noted.
+
+Future Developments
+
+For the latest information about developments related to Forms 1099-A and 1099-C and their instructions, such as legislation enacted after they were published, go to www.irs.gov/form1099a and www.irs.gov/form1099c.
+
+What's New
+
+At the time these instructions went to print Proposed Regulations (REG-136676-13) were issued concerning the 36-month non-payment testing period. See, www.irs.gov/form1099a for further developments.
+
+Reminder
+
+In addition to these specific instructions, you should also use the 2015 General Instructions for Certain Information Returns (Forms 1097, 1098, 1099, 3921, 3922, 5498, and W-2G). Those general instructions include information about the following topics.
+-- Who must file (nominee/middleman).
+-- When and where to file.
+-- Electronic reporting requirements.
+-- Corrected and void returns.
+-- Statements to recipients.
+-- Taxpayer identification numbers.
+-- Backup withholding.
+-- Penalties.
+-- Other general topics.
+
+You can get the general instructions from www.irs.gov/form1099a or www.irs.gov/form1099c or by calling 1-800-TAX-FORM (1-800-829-3676).
+
+Specific Instructions for Form 1099-A
+
+File Form 1099-A, Acquisition or Abandonment of Secured Property, for each borrower if you lend money in connection with your trade or business and, in full or partial satisfaction of the debt, you acquire an interest in property that is security for the debt, or you have reason to know that the property has been abandoned. You need not be in the business of lending money to be subject to this reporting requirement.
+
+Coordination With Form 1099-C
+
+If, in the same calendar year, you cancel a debt of $600 or more in connection with a foreclosure or abandonment of secured property, it is not necessary to file both Form 1099-A and Form 1099-C, Cancellation of Debt, for the same debtor. You may file Form 1099-C only. You will meet your Form 1099-A filing requirement for the debtor by completing boxes 4, 5, and 7 on Form 1099-C. However, if you file both Forms 1099-A and 1099-C, do not complete boxes 4, 5, or 7 on Form 1099-C. See the instructions for Form 1099-C, later.
+
+Property
+
+Property means any real property (such as a personal residence), any intangible property, and tangible personal property except:
+-- No reporting is required for tangible personal property (such as a car) held only for personal use. However, you must file Form 1099-A if the property is totally or partly held for use in a trade or business or for investment.
+-- No reporting is required if the property securing the loan is located outside the United States and the borrower has furnished the lender a statement, under penalties of perjury, that the borrower is an exempt foreign person (unless the lender knows that the statement is false).
+
+Who Must File
+
+In addition to the general rule specified above, the following rules apply.
+
+Multiple owners of a single loan. If there are multiple owners of undivided interests in a single loan, such as in pools, fixed investment trusts, or other similar arrangements, the trustee, record owner, or person acting in a similar capacity must file Form 1099-A on behalf of all the owners of beneficial interests or participations. In this case, only one form for each borrower must be filed on behalf of all owners with respect to the loan. Similarly, for bond issues, only the trustee or similar person is required to report.
+
+Governmental unit. A governmental unit, or any of its subsidiary agencies, that lends money secured by property must file Form 1099-A.
+
+Subsequent holder. A subsequent holder of a loan is treated as a lender and is required to report events occurring after the loan is transferred to the new holder.
+
+Multiple lenders. If more than one person lends money secured by property and one lender forecloses or otherwise acquires an interest in the property and the sale or other acquisition terminates, reduces, or otherwise impairs the other lenders' security interests in the property, the other lenders must file Form 1099-A for each of their loans. For example, if a first trust holder forecloses on a building, and the second trust holder knows or has reason to know of such foreclosure, the second trust holder must file Form 1099-A for the second trust even though no part of the second trust was satisfied by the proceeds of the foreclosure sale.
+
+<page 2>
+
+Abandonment
+
+An abandonment occurs when the objective facts and circumstances indicate that the borrower intended to and has permanently discarded the property from use. You have "reason to know" of an abandonment based on all the facts and circumstances concerning the status of the property. You will be deemed to know all the information that would have been discovered through a reasonable inquiry when, in the ordinary course of business, you become aware or should become aware of circumstances indicating that the property has been abandoned. If you expect to commence a foreclosure, execution, or similar sale within 3 months of the date you had reason to know that the property was abandoned, reporting is required as of the date you acquire an interest in the property or a third party purchases the property at such sale. If you expect to but do not commence such action within 3 months, the reporting requirement arises at the end of the 3-month period.
+
+Statements to Borrowers
+
+If you are required to file Form 1099-A, you must provide a statement to the borrower. Furnish a copy of Form 1099-A or an acceptable substitute statement to each borrower. For more information about the requirement to furnish a statement to the borrower, see part M in the 2015 General Instructions for Certain Information Returns.
+
+Truncating Borrower's identification number on statements. Pursuant to Treasury Regulations section 301.6109-4, all filers of Form 1099-A may truncate a borrower's identification number (social security number (SSN), individual taxpayer identification number (ITIN), adoption taxpayer identification number (ATIN), or employer identification number (EIN)) on payee statements. Truncation is not allowed on any documents the filer files with the IRS. A lender's identification number may not be truncated on any form. See part J in the 2015 General Instructions for Certain Information Returns.
+
+Account Number
+
+The account number is required if you have multiple accounts for a borrower for whom you are filing more than one Form 1099-A. Additionally, the IRS encourages you to designate an account number for all Forms 1099-A that you file. See part L in the 2015 General Instructions for Certain Information Returns.
+
+Box 1. Date of Lender's Acquisition or Knowledge of Abandonment
+
+For an acquisition, enter the date you acquired the secured property. An interest in the property generally is acquired on the earlier of the date title is transferred to the lender or the date possession and the burdens and benefits of ownership are transferred to the lender. If an objection period is provided by law, use the date the objection period expires. If you purchase the property at a sale held to satisfy the debt, such as at a foreclosure or execution sale, use the later of the date of sale or the date the borrower's right of redemption, if any, expires.
+
+For an abandonment, enter the date you knew or had reason to know that the property was abandoned unless you expect to commence a foreclosure, execution, or similar action within 3 months, as explained earlier. If a third party purchases the property at a foreclosure, execution, or similar sale, the property is treated as abandoned, and you have reason to know of its abandonment on the date of sale.
+
+Box 2. Balance of Principal Outstanding
+
+Enter the balance of the debt outstanding at the time the interest in the property was acquired or on the date you first knew or had reason to know that the property was abandoned. Include only unpaid principal on the original debt. Do not include accrued interest or foreclosure costs.
+
+Box 3. Reserved
+
+Box 4. Fair Market Value (FMV) of Property
+
+For a foreclosure, execution, or similar sale, enter the FMV of the property. See Temporary Regulations section 1.6050J-1T, Q/A-32. Generally, the gross foreclosure bid price is considered to be the FMV. If an abandonment or voluntary conveyance to the lender in lieu of foreclosure occurred and you placed an "X" in the checkbox in box 5, enter the appraised value of the property. Otherwise, make no entry in this box.
+
+Box 5. Was Borrower Personally Liable for Repayment of the Debt
+
+If the borrower was personally liable for repayment of the debt at the time the debt was created or, if modified, at the time of the last modification, enter an "X" in the checkbox.
+
+Box 6. Description of Property
+
+Enter a general description of the property. For real property, generally you must enter the address of the property, or, if the address does not sufficiently identify the property, enter the section, lot, and block.
+
+For personal property, enter the applicable type, make, and model. For example, describe a car as "Car--2011 Honda Accord." Use a category such as "Office Equipment" to describe more than one piece of personal property, such as six desks and seven computers. Enter "CCC" for crops forfeited on Commodity Credit Corporation loans.
+
+Specific Instructions for Form 1099-C
+
+CAUTION: The creditor's phone number must be provided in the creditor's information box. It should be a central number for all canceled debts at which a person may be reached who will insure the debtor is connected with the correct department.
+
+CAUTION: Do not file Form 1099-C when fraudulent debt is canceled due to identity theft. Form 1099-C is to be used only for cancellations of debts for which the debtor actually incurred the underlying debt.
+
+File Form 1099-C, Cancellation of Debt, for each debtor for whom you canceled a debt owed to you of $600 or more if:
+1. You are an entity described under Who Must File, below, and
+2. An identifiable event has occurred. It does not matter whether the actual cancellation is on or before the date of the identifiable event. See When Is a Debt Canceled, later.
+
+<page 3>
+
+CAUTION: Form 1099-C must be filed regardless of whether the debtor is required to report the debt as income.
+
+The debtor may be an individual, corporation, partnership, trust, estate, association, or company.
+
+Do not combine multiple cancellations of a debt to determine whether you meet the $600 reporting requirement unless the separate cancellations are under a plan to evade the Form 1099-C requirements.
+
+Coordination With Form 1099-A
+
+If, in the same calendar year, you cancel a debt of $600 or more in connection with a foreclosure or abandonment of secured property, it is not necessary to file both Form 1099-A, Acquisition or Abandonment of Secured Property, and Form 1099-C for the same debtor. You may file Form 1099-C only. You will meet your Form 1099-A filing requirement for the debtor by completing boxes 4, 5, and 7 on Form 1099-C. However, you may file both Forms 1099-A and 1099-C; if you do file both forms, do not complete boxes 4, 5, or 7 on Form 1099-C. See the instructions for Form 1099-A, earlier, and Box 4, Box 5, and Box 7, later.
+
+Who Must File
+
+File Form 1099-C if you are:
+1. A financial institution described in section 581 or 591(a) (such as a domestic bank, trust company, building and loan or savings and loan association).
+2. A credit union.
+3. Any of the following, its successor, or subunit of one of the following:
+   a. Federal Deposit Insurance Corporation,
+   b. Resolution Trust Corporation,
+   c. National Credit Union Administration,
+   d. Any other federal executive agency, including government corporations,
+   e. Any military department,
+   f. U.S. Postal Service, or
+   g. Postal Rate Commission.
+4. A corporation that is a subsidiary of a financial institution or credit union, but only if, because of your affiliation, you are subject to supervision and examination by a federal or state regulatory agency.
+5. A Federal Government agency including:
+   a. A department,
+   b. An agency,
+   c. A court or court administrative office, or
+   d. An instrumentality in the judicial or legislative branch of the government.
+6. Any organization whose significant trade or business is the lending of money, such as a finance company or credit card company (whether or not affiliated with a financial institution). The lending of money is a significant trade or business if money is lent on a regular and continuing basis. Regulations section 1.6050P-2(b) lists three safe harbors under which reporting may not be required for the current year. See Safe harbor rules next.
+
+Safe harbor rules. The three safe harbor rules in which an entity will not be considered to have a significant trade or business of lending money are:
+1. No prior year reporting required. An organization will not have a significant trade or business of lending money for the current year if the organization was not required to report in the prior year and if its gross income from lending money in the most recent test year (see item 3, below) is less than both 15% of the organization's gross income and $5 million.
+2. Prior year reporting requirement. An organization that had a prior year reporting requirement will not have a significant trade or business of lending money for the current year if, for each of the 3 most recent test years, its gross income from lending money is less than both 10% of the organization's gross income and $3 million.
+3. No test year. Newly formed organizations are considered not to have a significant trade or business of lending money even if the organization lends money on a regular and continuing basis. However, this safe harbor does not apply to an entity formed or availed of for the principal purpose of holding loans acquired or originated by another entity. In this instance, the transferee entity (including real estate mortgage investment conduits (REMICs) and pass-through securitized indebtedness arrangements) may be required to report cancellation of indebtedness on Form 1099-C. See Regulations section 1.6050P-1(e)(5).
+
+Test year defined. A test year is a tax year of the organization that ends before July 1 of the previous calendar year. For example, X, a calendar year taxpayer who has a significant trade or business of lending money, is formed in year one. X will not have a test year in year one or year two. However, for year three, X's test year will be year one. In year three, year one is the only year that ended before July 1 of the previous calendar year (in this example, year two).
+
+Penalties. There are penalties for failure to file correct information returns by the due date and for failure to furnish correct payee statements. See part O in the 2015 General Instructions for Certain Information Returns for details.
+
+Exceptions. Until further guidance is issued, no penalty will apply for failure to file Form 1099-C, or provide statements to debtors, for amounts:
+-- Discharged in nonlending transactions, or
+-- Forgiven pursuant to the terms of a debt obligation.
+
+Multiple creditors. If a debt is owned (or treated as owned for federal income tax purposes) by more than one creditor, each creditor that is described under Who Must File, earlier, must issue a Form 1099-C if that creditor's part of the canceled debt is $600 or more. A creditor will be deemed to have met its filing requirements if a lead bank, fund administrator, or other designee of the creditor complies on its behalf. The designee may file a single Form 1099-C reporting the aggregate canceled debt or may file Form 1099-C for that creditor's part of the canceled debt. Use any reasonable method to determine the amount of each creditor's part of the canceled debt.
+
+<page 4>
+
+Debt owned by a partnership is treated as owned by the partners and must follow the rules for multiple creditors.
+
+Pass-throughs and REMICs. Until further guidance is issued, no penalty will apply for failure to file Form 1099-C, or provide statements to debtors, for a canceled debt held in a pass-through securitized debt arrangement or held by a REMIC. However, see item 3 under Safe harbor rules, earlier.
+
+A pass-through securitized debt arrangement is any arrangement in which one or more debts are pooled and held for 20 or more persons whose interests in the debt are undivided co-ownership interests that are freely transferable. Co-ownership interests that are actively traded personal property (as defined in Regulations section 1.1092(d)-1) are presumed to meet these requirements.
+
+Debt Defined
+
+A debt is any amount owed to you, including stated principal, stated interest, fees, penalties, administrative costs, and fines. The amount of debt canceled may be all or only part of the total amount owed. However, for a lending transaction, you are required to report only the stated principal. See Exceptions, later.
+
+When To File
+
+Generally, file Form 1099-C for the year in which an identifiable event occurs. See Exceptions, later. If you cancel a debt before an identifiable event occurs, you may choose to file Form 1099-C for the year of cancellation. No further reporting is required even if a later identifiable event occurs with respect to an amount previously reported. Also, you are not required to file an additional or corrected Form 1099-C if you receive payment on a prior year debt.
+
+When Is a Debt Canceled
+
+A debt is deemed canceled on the date an identifiable event occurs or, if earlier, the date of the actual discharge if you choose to file Form 1099-C for the year of cancellation. An identifiable event is one of the following.
+1. A discharge in bankruptcy under Title 11 of the U.S. Code. For information on certain discharges in bankruptcy not required to be reported, see Exceptions, later. Enter "A" in Box 6 to report this identifiable event.
+2. A cancellation or extinguishment making the debt unenforceable in a receivership, foreclosure, or similar federal nonbankruptcy or state court proceeding. Enter "B" in Box 6 to report this identifiable event.
+3. A cancellation or extinguishment when the statute of limitations for collecting the debt expires, or when the statutory period for filing a claim or beginning a deficiency judgment proceeding expires. Expiration of the statute of limitations is an identifiable event only when a debtor's affirmative statute of limitations defense is upheld in a final judgment or decision of a court and the appeal period has expired. Enter "C" in Box 6 to report this identifiable event.
+4. A cancellation or extinguishment when the creditor elects foreclosure remedies that by law extinguish or bar the creditor's right to collect the debt. This event applies to a mortgage lender or holder who is barred by local law from pursuing debt collection after a "power of sale" in the mortgage or deed of trust is exercised. Enter "D" in Box 6 to report this identifiable event.
+5. A cancellation or extinguishment making the debt unenforceable under a probate or similar proceeding. Enter "E" in Box 6 to report this identifiable event.
+6. A discharge of indebtedness under an agreement between the creditor and the debtor to cancel the debt at less than full consideration (for example, short sales). Enter "F" in Box 6 to report this identifiable event.
+7. A discharge of indebtedness because of a decision or a defined policy of the creditor to discontinue collection activity and cancel the debt. A creditor's defined policy can be in writing or an established business practice of the creditor. A creditor's established practice to stop collection activity and abandon a debt when a particular nonpayment period expires is a defined policy. Enter "G" in Box 6 to report this identifiable event.
+8. The expiration of non-payment testing period. This applies only to entities described in numbers 1, 2, 3, or 4 under Who Must File, earlier. This event occurs when the creditor has not received a payment on the debt during the testing period. The testing period is a 36-month period ending on December 31, plus any time when the creditor was precluded from collection activity by a stay in bankruptcy or similar bar under state or local law. Enter "H" in Box 6 to report this identifiable event.
+   The creditor can rebut the occurrence of this identifiable event if:
+      a. The creditor (or a third party collection agency on behalf of the creditor) has engaged in significant bona fide collection activity during the 12-month period ending on December 31, or
+      b. Facts and circumstances that exist on January 31 following the end of the 36-month period indicate that the debt was not canceled.
+   Significant bona fide collection activity does not include nominal or ministerial collection action, such as an automated mailing. Facts and circumstances indicating that a debt was not canceled include the existence of a lien relating to the debt (up to the value of the security) or the sale or packaging for sale of the debt by the creditor.
+9. Other actual discharge before identifiable event. Enter "I" in Box 6 if there is an other actual discharge before one of the identifiable events listed above.
+
+Exceptions
+
+You are not required to report on Form 1099-C the following.
+1. Certain bankruptcies. You are not required to report a debt discharged in bankruptcy unless you know from information included in your books and records that the debt was incurred for business or investment purposes. If you are required to report a business or investment debt discharged in bankruptcy, report it for the later of:
+
+<page 5>
+
+   a. The year in which the amount of discharged debt first can be determined, or
+   b. The year in which the debt is discharged in bankruptcy.
+
+A debt is incurred for business if it is incurred in connection with the conduct of any trade or business other than the trade or business of performing services as an employee. A debt is incurred for investment if it is incurred to purchase property held for investment (as defined in section 163(d)(5)).
+
+2. Interest. You are not required to report interest. However, if you choose to report interest as part of the canceled debt in box 2, you must show the interest separately in box 3.
+3. Nonprincipal amounts. Nonprincipal amounts include penalties, fines, fees, and administrative costs. For a lending transaction, you are not required to report any amount other than stated principal. A lending transaction occurs when a lender loans money to, or makes advances on behalf of, a borrower (including revolving credit and lines of credit). For a nonlending transaction, nonprincipal amounts are included in the debt. However, until further guidance is issued, no penalties will be imposed for failure to report these amounts in nonlending transactions.
+4. Foreign debtors. Until further guidance is issued, no penalty will apply if a financial institution does not file Form 1099-C for a debt canceled by its foreign branch or foreign office for a foreign debtor, provided all the following apply.
+   a. The financial institution is engaged in the active conduct of a banking or similar business outside the United States.
+   b. The branch or office is a permanent place of business that is regularly maintained, occupied, and used to carry on a banking or similar financial business.
+   c. The business is conducted by at least one employee of the branch or office who is regularly in attendance at the place of business during normal working hours.
+   d. The indebtedness is extended outside the United States by the branch or office in connection with that trade or business.
+   e. The financial institution does not know or have reason to know that the debtor is a U.S. person.
+5. Related parties. Generally, a creditor is not required to file Form 1099-C for the deemed cancellation of a debt that occurs when the creditor acquires the debt of a related debtor, becomes related to the debtor, or transfers the debt to another creditor related to the debtor. However, if the transfer to a related party by the creditor was for the purpose of avoiding the Form 1099-C requirements, Form 1099-C is required. See section 108(e)(4).
+6. Release of a debtor. You are not required to file Form 1099-C if you release one of the debtors on a debt as long as the remaining debtors are liable for the full unpaid amount.
+7. Guarantor or surety. You are not required to file Form 1099-C for a guarantor or surety. A guarantor is not a debtor for purposes of filing Form 1099-C even if demand for payment is made to the guarantor.
+8. Seller financing. Organizations whose principal trade or business is the sale of non-financial goods or non-financial services, and who extend credit to customers in connection with the purchase of those non-financial goods and non-financial services, are not considered to have a significant trade or business of lending money, with respect to the credit extended in connection with the purchase of those goods or services, for reporting discharge of indebtedness on Form 1099-C. See Regulations section 1.6050P-2(c). But the reporting applies if a separate financing subsidiary of the retailer extends the credit to the retailer's customers.
+
+Multiple Debtors
+
+For debts of $10,000 or more incurred after 1994 that involve debtors who are jointly and severally liable for the debt, you must report the entire amount of the canceled debt on each debtor's Form 1099-C. Multiple debtors are jointly and severally liable for a debt if there is no clear and convincing evidence to the contrary. If it can be shown that joint and several liability does not exist, a Form 1099-C is required for each debtor for whom you canceled a debt of $600 or more.
+
+For debts incurred before 1995 and for debts of less than $10,000 incurred after 1994, you must file Form 1099-C only for the primary (or first-named) debtor.
+
+If you know or have reason to know that the multiple debtors were husband and wife who were living at the same address when the debt was incurred, and you have no information that these circumstances have changed, you may file only one Form 1099-C.
+
+Recordkeeping
+
+If you are required to file Form 1099-C, you must retain a copy of that form or be able to reconstruct the data for at least 4 years from the due date of the return.
+
+Requesting TINs
+
+You must make a reasonable effort to obtain the correct name and taxpayer identification number (TIN) of the person whose debt was canceled. You may obtain the TIN when the debt is incurred. If you do not obtain the TIN before the debt is canceled, you must request the debtor's TIN. Your request must clearly notify the debtor that the IRS requires the debtor to furnish its TIN and that failure to furnish such TIN subjects the debtor to a $50 penalty imposed by the IRS. You may use Form W-9, Request for Taxpayer Identification Number and Certification, to request the TIN. However, a debtor is not required to certify his or her TIN under penalties of perjury.
+
+Statements to Debtors
+
+If you are required to file Form 1099-C, you must provide a statement to the debtor. Furnish a copy of Form 1099-C or an acceptable substitute statement to each debtor. In the 2015 General Instructions for Certain Information Returns, see:
+
+<page 6>
+
+-- Part M for more information about the requirement to furnish a statement to the debtor, and
+-- Part J for specific procedures to complete Form 1099-C for debtors in bankruptcy.
+
+Truncating Debtor's identification number on payee statements. Pursuant to Treasury Regulations sections 301.6109-4, all filers of Form 1099-C may truncate a debtor's identification number (social security number (SSN), individual taxpayer identification number (ITIN), adoption taxpayer identification number (ATIN), or employer identification number (EIN)) on payee statements. Truncation is not allowed on any documents the filer files with the IRS. A creditor's identification number may not be truncated on any form. See part J in the 2015 General Instructions for Certain Information Returns.
+
+Account Number
+
+The account number is required if you have multiple accounts for a debtor for whom you are filing more than one Form 1099-C. Additionally, the IRS encourages you to designate an account number for all Forms 1099-C that you file. See part L in the 2015 General Instructions for Certain Information Returns.
+
+Box 1. Date of Identifiable Event
+
+Enter the date of the identifiable event. See When Is a Debt Canceled, earlier. However, if you actually cancel a debt before an identifiable event and you choose to report that cancellation, enter the date that you actually canceled the debt.
+
+Box 2. Amount of Debt Discharged
+
+Enter the amount of the canceled debt. See Debt Defined and Exceptions, earlier. The amount of the canceled debt cannot be greater than the total debt less any amount the lender receives in satisfaction of the debt by means of a settlement agreement, foreclosure sale, a short sale that partially satisfied the debt, etc.
+
+Box 3. Interest if Included in Box 2
+
+Enter any interest you included in the canceled debt in box 2. You are not required to report interest in box 2. But if you do, you must also report it in box 3.
+
+Box 4. Debt Description
+
+Enter a description of the origin of the debt, such as student loan, mortgage, or credit card expenditure. Be as specific as possible. If you are filing a combined Form 1099-C and 1099-A, include a description of the property.
+
+Box 5. Check Here if the Debtor was Personally Liable for Repayment of the Debt
+
+If the debtor was personally liable for repayment of the debt at the time the debt was created or, if modified, at the time of the last modification, enter an "X" in the checkbox.
+
+Box 6. Identifiable Event Code
+
+Enter the appropriate code to report the nature of the identifiable event. For more information about the code to use when reporting each identifiable event, see When Is a Debt Canceled, earlier, and Regulations section 1.6050P-1(b)(2). Also see Publication 4681, Canceled Debts, Foreclosures, Repossessions, and Abandonments.
+
+Box 7. Fair Market Value (FMV) of Property
+
+TIP: FMV should include the appraised value of the property if the property is sold in a short sale.
+
+If you are filing a combined Form 1099-C and 1099-A for a foreclosure, execution, or similar sale, enter the FMV of the property. Generally, the gross foreclosure bid price is considered to be the FMV. If an abandonment or voluntary conveyance to the lender in lieu of foreclosure occurred, enter the appraised value of the property.
+
+End of Form 1099-A and Instructions
+

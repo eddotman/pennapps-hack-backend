@@ -1,0 +1,431 @@
+
+Form 1120-W and Instructions 
+Estimated Tax for Corporations
+(WORKSHEET)
+2015
+
+Cat. No. 37216S
+
+Provided by the:
+Internal Revenue Service
+Alternative Media Center
+
+In 1 File
+Print pages 1-3 and 1-5
+
+Contents
+
+Section:  Page
+Form 1120-W:  1
+     Schedule A. Adjusted Seasonal Installment Method and Annualized Income Installment Method:  2
+          Part I. Adjusted Seasonal Installment Method:  2
+          Part II. Annualized Income Installment Method:  3
+          Part III. Required Installments:  3
+2015 Instructions for Form 1120-W:  1
+     Future Developments:  1
+     General Instructions:  1
+     Specific Instructions:  2
+     Schedule A:  3
+          Part I. Adjusted Seasonal Installment Method:  3
+          Part II. Annualized Income Installment Method:  4
+          Part III. Required Installments:  4
+
+This electronic edition contains the entire text of the print editions.
+<page 1>
+
+Form 1120-W
+Estimated Tax for Corporations
+(WORKSHEET)
+2015
+
+For calendar year 2015, or tax year beginning ----, 2015, and ending ----, 20----.
+
+(Keep for the corporation's records--Do not send to the Internal Revenue Service.)
+
+Information about Form 1120-W and its separate instructions is at www.irs.gov/form1120.
+
+Estimated Tax Computation
+1. Taxable income expected for the tax year: 1. ----
+
+Qualified personal service corporations (defined in the instructions), skip lines 2 through 13 and go to line 14. Members of a controlled group, see instructions.
+2. Enter the smaller of line 1 or $50,000: 2. ----
+3. Multiply line 2 by 15%:  3. ----
+4. Subtract line 2 from line 1: 4. ----
+5. Enter the smaller of line 4 or $25,000: 5. ----
+6. Multiply line 5 by 25%:  6. ----
+7. Subtract line 5 from line 4: 7. ----
+8. Enter the smaller of line 7 or $9,925,000: 8. ----
+9. Multiply line 8 by 34%:  9. ----
+10. Subtract line 8 from line 7: 10. ----
+11. Multiply line 10 by 35%:  11. ----
+12. If line 1 is greater than $100,000, enter the smaller of (a) 5% of the excess over $100,000 or (b) $11,750. Otherwise, enter 0:  12. ----
+13. If line 1 is greater than $15 million, enter the smaller of (a) 3% of the excess over $15 million or (b) $100,000. Otherwise, enter 0:  13. ----
+14. Add lines 3, 6, 9, and 11 through 13. (Qualified personal service corporations, multiply line 1 by 35%.):  14. ----
+15. Alternative minimum tax (see instructions):  15. ----
+16. Total. Add lines 14 and 15:  16. ----
+17. Tax credits (see instructions):  17. ----
+18. Subtract line 17 from line 16:  18. ----
+19. Other taxes (see instructions):  19. ----
+20. Total tax. Add lines 18 and 19:  20. ----
+21. Credit for federal tax paid on fuels and other refundable credits (see instructions):  21. ----
+22. Subtract line 21 from line 20. Note: If the result is less than $500, the corporation is not required to make estimated tax payments:  22. ----
+23a. Enter the tax shown on the corporation's 2014 tax return (see instructions). Caution: If the tax is zero or the tax year was for less than 12 months, skip this line and enter the amount from line 22 on line 23b:  23a. ----
+23b. Enter the smaller of line 22 or line 23a. If the corporation is required to skip line 23a, enter the amount from line 22:  23b. ----
+
+Note: In this table, columns follow each other in this order: Line item: (a); (b); (c); (d)
+24. Installment due dates (see instructions): (a) ----; (b) ----; (c) ----; (d) ----
+25. Required installments. Enter 25% of line 23b in columns (a) through (d). If the corporation uses the annualized income installment method or adjusted seasonal installment method or is a "large corporation," see the instructions for the amount to enter: (a) ----; (b) ----; (c) ----; (d) ----
+
+<page 2>
+
+Schedule A. Adjusted Seasonal Installment Method and Annualized Income Installment Method (see instructions)
+
+Part I. Adjusted Seasonal Installment Method
+
+(Use this method only if the base period percentage for any 6 consecutive months is at least 70%.)
+
+Note: In this table, columns follow each other in this order: Line item: (a) First 3 months; (b) First 5 months; (c) First 8 months; (d) First 11 months
+1. Enter taxable income for the following periods--
+     a. Tax year beginning in 2012: (a) ----; (b) ----; (c) ----; (d) ----
+     b. Tax year beginning in 2013: (a) ----; (b) ----; (c) ----; (d) ----
+     c. Tax year beginning in 2014: (a) ----; (b) ----; (c) ----; (d) ----
+2. Enter taxable income for each period for the tax year beginning in 2015 (see instructions for the treatment of extraordinary items): (a) ----; (b) ----; (c) ----; (d) ----
+
+Note: In this table, columns follow each other in this order: Line item: (a) First 4 months; (b) First 6 months; (c) First 9 months; (d) Entire year
+3. Enter taxable income for the following periods--
+     a. Tax year beginning in 2012: (a) ----; (b) ----; (c) ----; (d) ----
+     b. Tax year beginning in 2013: (a) ----; (b) ----; (c) ----; (d) ----
+     c. Tax year beginning in 2014: (a) ----; (b) ----; (c) ----; (d) ----
+4. Divide the amount in each column on line 1a by the amount in column (d) on line 3a: (a) ----; (b) ----; (c) ----; (d) ----
+5. Divide the amount in each column on line 1b by the amount in column (d) on line 3b: (a) ----; (b) ----; (c) ----; (d) ----
+6. Divide the amount in each column on line 1c by the amount in column (d) on line 3c: (a) ----; (b) ----; (c) ----; (d) ----
+7. Add lines 4 through 6: (a) ----; (b) ----; (c) ----; (d) ----
+8. Divide line 7 by 3.0: (a) ----; (b) ----; (c) ----; (d) ----
+9a. Divide line 2 by line 8: (a) ----; (b) ----; (c) ----; (d) ----
+9b. Extraordinary items (see instructions): (a) ----; (b) ----; (c) ----; (d) ----
+9c. Add lines 9a and 9b: (a) ----; (b) ----; (c) ----; (d) ----
+10. Figure the tax on the amount on line 9c by following the same steps used to figure the tax on page 1, line 14: (a) ----; (b) ----; (c) ----; (d) ----
+11a. Divide the amount in columns (a) through (c) on line 3a by the amount in column (d) on line 3a: (a) ----; (b) ----; (c) ----; (d) shaded
+11b. Divide the amount in columns (a) through (c) on line 3b by the amount in column (d) on line 3b: (a) ----; (b) ----; (c) ----; (d) shaded
+11c. Divide the amount in columns (a) through (c) on line 3c by the amount in column (d) on line 3c: (a) ----; (b) ----; (c) ----; (d) shaded
+12. Add lines 11a through 11c: (a) ----; (b) ----; (c) ----; (d) shaded
+13. Divide line 12 by 3.0: (a) ----; (b) ----; (c) ----; (d) shaded
+14. Multiply the amount in columns (a) through (c) of line 10 by the amount in the corresponding column of line 13. In column (d), enter the amount from line 10, column (d): (a) ----; (b) ----; (c) ----; (d) ----
+15. Enter any alternative minimum tax for each payment period (see instructions): (a) ----; (b) --- -; (c) ----; (d) ----
+16. Enter any other taxes for each payment period (see instructions): (a) ----; (b) ----; (c) ----; (d) ----
+17. Add lines 14 through 16: (a) ----; (b) ----; (c) ----; (d) ----
+18. For each period, enter the same type of credits as allowed on page 1, lines 17 and 21 (see instructions): (a) ----; (b) ----; (c) ----; (d) ----
+19. Subtract line 18 from line 17. If zero or less, enter 0: (a) ----; (b) ----; (c) ----; (d) ----
+
+<page 3>
+
+Part II. Annualized Income Installment Method
+
+Note: In this table, columns follow each other in this order: Line item: (a); (b); (c); (d)
+20. Annualization periods (see instructions): (a) First ---- months; (b) First ---- months; (c) First ---- months; (d) First ---- months
+21. Enter taxable income for each annualization period (see instructions for the treatment of extraordinary items): (a) ----; (b) ----; (c) ----; (d) ----
+22. Annualization amounts (see instructions): (a) ----; (b) ----; (c) ----; (d) ----
+23a. Annualized taxable income. Multiply line 21 by line 22: (a) ----; (b) ----; (c) ----; (d) ----
+23b. Extraordinary items (see instructions): (a) ----; (b) ----; (c) ----; (d) ----
+23c. Add lines 23a and 23b: (a) ----; (b) ----; (c) ----; (d) ----
+24. Figure the tax on the amount in each column on line 23c by following the same steps used to figure the tax on page 1, line 14: (a) ----; (b) ----; (c) ----; (d) ----
+25. Enter any alternative minimum tax for each annualization period (see instructions): (a) ----; (b) ----; (c) ----; (d) ----
+26. Enter any other taxes for each annualization period (see instructions): (a) ----; (b) ----; (c) ----; (d) ----
+27. Total tax. Add lines 24 through 26: (a) ----; (b) ----; (c) ----; (d) ----
+28. For each annualization period, enter the same type of credits as allowed on page 1, lines 17 and 21 (see instructions): (a) ----; (b) ----; (c) ----; (d) ----
+29. Total tax after credits. Subtract line 28 from line 27. If zero or less, enter 0: (a) ----; (b) ----; (c) ----; (d) ----
+30. Applicable percentage: (a) 25%; (b) 50%; (c) 75%; (d) 100%
+31. Multiply line 29 by line 30: (a) ----; (b) ----; (c) ----; (d) ----
+
+Part III. Required Installments
+
+Note: Complete lines 32 through 38 of one column before completing the next column.
+
+Note: In this table, columns follow each other in this order: Line item: 1st installment; 2nd installment; 3rd installment; 4th installment
+32. If only Part I or Part II is completed, enter the amount in each column from line 19 or line 31. If both parts are completed, enter the smaller of the amounts in each column from line 19 or line 31: ----; ----; ----; ----
+33. Add the amounts in all preceding columns of line 38 (see instructions): shaded; ----; ----; ----
+34. Adjusted seasonal or annualized income installments. Subtract line 33 from line 32. If zero or less, enter 0: ----; ----; ----; ----
+35. Enter 25% of page 1, line 23b in each column. (Note: "Large corporations," see the instructions for page 1, line 25 for the amount to enter.): ----; ----; ----; ----
+36. Subtract line 38 of the preceding column from line 37 of the preceding column: shaded; ----; ----; ----
+37. Add lines 35 and 36: ----; ----; ----; ----
+38. Required installments. Enter the smaller of line 34 or line 37 here and on page 1, line 25 (see instructions): ----; ----; ----; ----
+
+<page 1>
+
+2015
+Instructions for Form 1120-W
+
+Section references are to the Internal Revenue Code unless otherwise noted.
+
+Future Developments
+
+For the latest information about developments affecting Form 1120-W and its instructions, such as legislation enacted after they were published, go to www.irs.gov/form1120.
+
+General Instructions
+
+Who Must Make Estimated Tax Payments
+-- Corporations generally must make estimated tax payments if they expect their estimated tax (income tax less credits) to be $500 or more.
+-- S corporations must make estimated tax payments for certain taxes. S corporations should see the instructions for Form 1120S, U.S. Income Tax Return for an S Corporation, to figure their estimated tax payments.
+-- Tax-exempt corporations, tax-exempt trusts, and domestic private foundations must make estimated tax payments for certain taxes. These entities should see the instructions for their tax return, to figure the amount of their estimated tax payments.
+
+When To Make Estimated Tax Payments
+
+The installments generally are due by the 15th day of the 4th, 6th, 9th, and 12th months of the tax year. If any due date falls on a Saturday, Sunday, or legal holiday, the installment is due on the next regular business day.
+
+Underpayment of Estimated Tax
+
+A corporation that does not make estimated tax payments when due may be subject to an underpayment penalty for the period of underpayment. Use Form 2220, Underpayment of Estimated Tax by Corporations, to see if the corporation owes a penalty and to figure the amount of the penalty. See Form 2220 and the Instructions for Form 2220.
+
+Overpayment of Estimated Tax
+
+A corporation that has overpaid its estimated tax may apply for a quick refund if the overpayment is at least 10% of its expected income tax liability and at least $500. To apply, file Form 4466, Corporation Application for Quick Refund of Overpayment of Estimated Tax, after the end of the tax year and before the corporation files its income tax return. Form 4466 may not be filed later than the 15th day of the 3rd month after the end of the tax year.
+
+Methods of Tax Payment
+
+Some corporations (described below) are required to electronically deposit all depository taxes, including estimated tax payments.
+
+Electronic Deposit Requirement
+
+Corporations must use electronic funds transfer to make all federal tax deposits (such as deposits of employment, excise, and corporate income tax). This includes installment payments of estimated tax. Generally, electronic funds transfer is made using the Electronic Federal Tax Payment System (EFTPS). However, if the corporation does not want to use EFTPS, it can arrange for its tax professional, financial institution, payroll service, or other trusted third party to make deposits on its behalf. Also, it may arrange for its financial institution to initiate a same-day tax wire payment (discussed below) on its behalf. EFTPS is a free service provided by the Department of the Treasury. Services provided by a tax professional, financial institution, payroll service, or other third party may have a fee.
+
+To get more information about EFTPS or to enroll in EFTPS, visit www.eftps.gov or call 1-800-555-4477.
+
+Depositing on time. For deposits made by EFTPS to be on time, the corporation must submit the deposit by 8 p.m. Eastern time the day before the date the deposit is due. If the corporation uses a third party to make deposits on its behalf, they may have different cutoff times.
+
+Same-day wire payment option. If the corporation fails to submit a deposit transaction on EFTPS by 8 p.m. Eastern time the day before the date a deposit is due, it can still make the deposit on time by using the Federal Tax Collection Service (FTCS). Before using the same-day wire payment option, the corporation will need to make arrangements with its financial institution ahead of time. Please check with the financial institution regarding availability, deadlines, and costs. To learn more about the information the corporation will need to provide its financial institution to make a same-day wire payment, visit www.irs.gov/e-pay and click on Same-Day Wire Federal Tax Payments.
+
+Foreign corporations. If a foreign corporation maintains an office or place of business in the United States, it must use electronic funds transfer (as discussed above) to make installment payments of estimated tax.
+
+If the foreign corporation does not maintain an office or place of business in the United States, it may pay the estimated tax by EFTPS if it has a U.S. bank account. The foreign corporation may also arrange for its financial institution to submit a same-day payment on its behalf or can arrange for either a qualified intermediary, tax professional, payroll service, or other trusted third party to make a deposit on its behalf using a master account.
+
+In addition, the foreign corporation has the option to pay the estimated tax due by check or money order, payable to the "United States Treasury." To ensure proper crediting, enter the foreign corporation's EIN, "Form 1120-F (or 1120-FSC, if applicable) estimated tax payment," and the tax period to which the payment applies on the check or money order. The payments must be sent to the Internal Revenue Service Center, P.O. Box 409101, Ogden, UT 84409.
+
+Refiguring Estimated Tax
+
+If, after the corporation figures and deposits estimated tax, it finds that its tax liability for the year will be more or less than originally estimated, it may have to refigure its required installments. If earlier installments were underpaid, the corporation may owe a penalty.
+
+<page 2>
+
+An immediate catchup payment should be made to reduce the amount of any penalty resulting from the underpayment of any earlier installments, whether caused by a change in estimate, failure to make a deposit, or a mistake.
+
+Specific Instructions
+
+CAUTION: All line references on Form 1120-W are references to Form 1120, U.S. Corporation Income Tax Return. All other entities must determine their estimated tax liability by using the applicable line from their income tax return and the maximum rate that is in effect for their applicable taxable year.
+
+Line 1. Qualified Personal Service Corporations
+
+A qualified personal service corporation is taxed at a flat rate of 35% on taxable income. A corporation is a qualified personal service corporation if it meets both of the following tests.
+-- Substantially all of the corporation's activities involve the performance of services in the fields of health, law, engineering, architecture, accounting, actuarial science, performing arts, or consulting.
+-- At least 95% of the corporation's stock, by value, is owned, directly or indirectly, by employees performing the services listed above, retired employees who had performed such services, any estate of an employee or retiree described above, or any person who acquired the stock of the corporation as a result of the death of an employee or retiree (but only for the 2-year period beginning on the date of the employee's or retiree's death).
+
+Lines 2, 5, and 8. Members of a Controlled Group
+
+Members of a controlled group, complete lines 2, 5, and 8 as follows:
+-- Enter on line 2 the smaller of the amount on line 1, or the member's share of the $50,000 amount.
+-- Enter on line 5 the smaller of the amount on line 4, or the member's share of the $25,000 amount.
+-- Enter on line 8 the smaller of the amount on line 7, or the member's share of the $9,925,000 amount.
+
+Equal apportionment plan. If no apportionment plan is adopted, members of a controlled group must divide the amount in each taxable income bracket equally among themselves. For example, Controlled Group AB consists of Corporation A and Corporation B. They do not elect an apportionment plan. Therefore, each corporation is entitled to:
+-- $25,000 (one-half of $50,000) on line 2,
+-- $12,500 (one-half of $25,000) on line 5, and
+-- $4,962,500 (one-half of $9,925,000) on line 8.
+
+Unequal apportionment plan. Members of a controlled group can elect an unequal apportionment plan and divide the taxable income brackets as they want. There is no need for consistency among taxable income brackets. Any member may be entitled to all, some, or none of the taxable income bracket. However, the total amount for all members cannot be more than the total amount in each taxable income bracket.
+
+Line 12. Additional 5% Tax
+
+Members of a controlled group are treated as one group to figure the applicability of the additional 5% tax and the additional 3% tax. If an additional tax applies, each member will pay that tax based on the part of the amount used in each taxable income bracket to reduce that member's tax. See section 1561(a). Each member of the group must enter on line 12 its share of the smaller of (a) 5% of the taxable income in excess of $100,000 or (b) $11,750.
+
+Line 13. Additional 3% Tax
+
+If the additional 3% tax applies, each member of the controlled group must enter on line 13 its share of the smaller of (a) 3% of the taxable income in excess of $15 million or (b) $100,000. See the instructions for line 12 above.
+
+Line 15. Alternative Minimum Tax (AMT)
+
+Note. Skip this line if the corporation is treated as a "small corporation" exempt from the AMT under section 55(e).
+
+AMT is generally the excess of tentative minimum tax (TMT) for the tax year over the regular tax for the tax year. A limited amount of the foreign tax credit, as refigured for the AMT, is allowed in computing the TMT. Use the 2014 Form 4626 and the 2014 Instructions for Form 4626 as a guide.
+
+Line 17. Tax Credits
+
+For information on tax credits the corporation can take, see the 2014 Instructions for Form 1120, Schedule J, lines 5a through 5e, or the instructions for the applicable lines and schedule of other income tax returns.
+
+Line 19. Other Taxes
+
+For information on other taxes the corporation may owe, see the 2014 Instructions for Form 1120, Schedule J, line 9, or the instructions for the applicable line and schedule of other income tax returns.
+
+Line 21. Credit for Federal Tax Paid on Fuels and Other Refundable Credits
+
+See Form 4136, Credit for Federal Tax Paid on Fuels, to find out if the corporation qualifies to take this credit. Also include on line 21 any other refundable credit, including any credit the corporation is claiming under section 4682(g)(2) for tax on ozone-depleting chemicals. For information on other refundable credits, see the Instructions for Form 1120, Schedule J, line 19, or the instructions for the applicable line or schedule of other income tax returns.
+
+Line 23a. 2014 Tax
+
+Figure the corporation's 2014 tax in the same way that line 22 of this worksheet was figured, using the taxes and credits from the 2014 income tax return. Large corporations, see the instructions for line 25 below.
+
+If a return was not filed for the 2014 tax year showing a liability for at least some amount of tax or the 2014 tax year was for less than 12 months, do not complete line 23a. Instead, skip line 23a and enter the amount from line 22 on line 23b.
+
+Line 24. Installment Due Dates
+
+Calendar-year taxpayers: Enter 4-15-2015, 6-15-2015, 9-15-2015, and 12-15-2015, respectively, in columns (a) through (d)
+
+Fiscal-year taxpayers: Enter the 15th day of the 4th, 6th, 9th, and 12th months of your tax year in columns (a) through (d). If the due date falls on a Saturday, Sunday, or legal holiday, enter the next business day.
+
+<page 3>
+
+Line 25. Required Installments
+
+Payments of estimated tax should reflect any 2014 overpayment that the corporation chose to credit against its 2015 tax. The overpayment is credited against unpaid required installments in the order in which the installments are required to be paid.
+
+If the corporation uses the annualized income installment method and/or the adjusted seasonal installment method, or is a "large corporation," see the instructions below.
+
+Annualized income installment method and/or adjusted seasonal installment method. If the corporation's income is expected to vary during the year because, for example, it operates its business on a seasonal basis, it may be able to lower the amount of one or more required installments by using the annualized income installment method and/or the adjusted seasonal installment method. For example, a ski shop, which receives most of its income during the winter months, may be able to benefit from using one or both of these methods in figuring one or more of its required installments.
+
+To use one or both of these methods, complete Schedule A. If Schedule A is used for any payment date, it must be used for all payment due dates. To get the amount of each required installment, Schedule A automatically selects the smallest of (a) the annualized income installment (if applicable), (b) the adjusted seasonal installment (if applicable), or (c) the regular installment under section 6655(d)(1) (increased by any recapture of a reduction in a required installment under section 6655(e)(1)(B)).
+
+Large corporations. A large corporation is a corporation that had, or whose predecessor had, taxable income of $1 million or more for any of the 3 tax years immediately preceding the 2015 tax year, or if less, the number of years the corporation has been in existence. For this purpose, taxable income is modified to exclude net operating loss and capital loss carrybacks or carryovers. Members of a controlled group, as defined in section 1563, must divide the $1 million amount among themselves according to rules similar to those in section 1561.
+
+Large corporations figure the amount to enter on line 25 as follows. If Schedule A is used, also follow these instructions to figure the amounts to enter on Schedule A, Part III, line 35.
+-- If line 22 is smaller than line 23a: Enter 25% of line 22 in columns (a) through (d) of line 25.
+-- If line 23a is smaller than line 22: Enter 25% of line 23a in column (a) of line 25. In column (b), determine the amount to enter as follows:
+     1. Subtract line 23a from line 22,
+     2. Add the result to the amount on line 22, and
+     3. Multiply the result in 2 above by 25% and enter the result in column (b). Enter 25% of line 22 in columns (c) and (d).
+
+Schedule A
+
+If only the adjusted seasonal installment method (Part I) is used, complete Parts I and III of Schedule A. If only the annualized income installment method (Part II) is used, complete Parts II and III. If both methods are used, complete all three parts. Enter in each column on page 1, Part I, line 25, the amounts from the corresponding column of line 38. If Schedule A is used for any payment date, it must be used for all payment dates.
+
+CAUTION: Do not figure any required installment until after the end of the month preceding the due date for that installment.
+
+Extraordinary items. Generally, under the annualized income installment method, extraordinary items must be taken into account after annualizing the taxable income for the annualization period. Similar rules apply in determining taxable income under the adjusted seasonal installment method. An extraordinary item includes:
+-- Any item identified in Regulations section 1.1502-76(b)(2)(ii)(C)(1), (2), (3), (4), (7), and (8);
+-- A net operating loss carryover;
+-- A section 481(a) adjustment; and
+-- Net gain or loss from the disposition of 25% or more of the fair market value of the corporation's business assets during the tax year.
+
+These extraordinary items must be accounted for in the appropriate annualization period. However, a net operating loss deduction and a section 481(a) adjustment (unless the corporation makes the alternative choice under Regulations section 1.6655-2(f)(ii)(C)) are treated as extraordinary items occurring on the first day of the tax year in which the item is taken into account in determining taxable income.
+
+De minimis rule. Extraordinary items identified above that are less than $1,000,000 (other than a net operating loss carryover or a section 481(a) adjustment) may be annualized using the general rules of Regulations section 1.6655-2(f), or if the corporation chooses, may be taken into account after annualizing the taxable income for the annualization period.
+
+For more information regarding extraordinary items, see Regulations section 1.6655-2(f)(ii) and the examples in Regulations section 1.6655-2(f)(vii). Also see Regulations section 1.6655-3(d)(3).
+
+Part I. Adjusted Seasonal Installment Method
+
+Complete this part only if the corporation's base period percentage for any 6 consecutive months of the tax year equals or exceeds 70% (.70). Figure the base period percentage using the 6-month period in which the corporation normally receives the largest part of its taxable income. The base period percentage for any period of 6 consecutive months is the average of the three percentages figured by dividing the taxable income for the corresponding 6-consecutive-month period in each of the 3 preceding tax years by the taxable income for each of their respective tax years.
+
+Example. An amusement park with a calendar year as its tax year receives the largest part of its taxable income during the 6-month period from May through October. To compute its base period percentage for this 6-month period in 2015, the amusement park figures its taxable income for each May-October period in 2012, 2013, and 2014. It then divides the taxable income for each May-October period by the total taxable income for that particular tax year. The resulting percentages are 69% (.69) for May-October 2012, 74% (.74) for May-October 2013, and 67% (.67) for May-October 2014. Because the average of 69%, 74%, and 67% is 70%, the base period percentage for May through October 2015 is 70%. Therefore, the amusement park qualifies for the adjusted seasonal installment method.
+
+Line 2
+
+If the corporation has certain extraordinary items, special rules apply. Do not include on line 2 the de minimis extraordinary items that the corporation chooses to include on line 9b. See Extraordinary items above.
+
+Line 9b
+
+If the corporation has extraordinary items of $1,000,000 or more, a net operating loss deduction, or a section 481(a) adjustment, special rules apply. Include these amounts on line 9b for the appropriate period. Also include on line 9b the de minimis items that the corporation chooses to exclude from line 2. See Extraordinary items above.
+
+<page 4>
+
+Line 10
+
+Figure the tax on the amount on line 9c by following the same steps used to figure the tax on Form 1120-W, page 1, line 14.
+
+Line 15. Alternative Minimum Tax
+
+The corporation may owe AMT unless it will be a "small corporation" exempt from the AMT under section 55(e) for its 2015 tax year. To figure the AMT, use the 2014 Form 4626 and its instructions as a guide. Figure alternative minimum taxable income (AMTI) using income and deductions for the months shown in the column headings above line 1. Divide the AMTI by the amounts on line 8 before subtracting the exemption amount. Multiply that result by 20% and subtract any AMT foreign tax credit plus the amount on line 10 to arrive at the AMT. For columns (a) through (c), multiply the AMT by the amount shown on line 13.
+
+Line 16. Other Taxes
+
+For the same taxes used to figure page 1, Part I, line 19, figure the amounts for the months shown in the column headings above line 1.
+
+Line 18. Credits
+
+Enter the credits to which the corporation is entitled for the months shown in the column headings above line 1.
+
+Part II. Annualized Income Installment Method
+
+Line 20. Annualization Periods
+
+Enter in the space on line 20, columns (a) through (d), respectively, the annualization periods that the corporation is using, based on the options listed below. For example, if the corporation elects Option 1, enter on line 20 the annualization periods 2, 4, 7, and 10, in columns (a) through (d), respectively.
+
+CAUTION: Use Option 1 or Option 2 only if the corporation elected to use one of these options by filing Form 8842, Election To Use Different Annualization Periods for Corporate Estimated Tax, on or before the due date of the first required installment payment. Once made, the election is irrevocable for the particular tax year.
+
+Note: In this table, columns follow each other in this order: Option: 1st Installment; 2nd Installment; 3rd Installment; 4th Installment
+Standard option: 3; 3; 6; 9
+Option 1: 2; 4; 7; 10
+Option 2: 3; 5; 8; 11
+
+Line 21. Taxable Income
+
+If a corporation has income includible under section 951(a) (controlled foreign corporation income), special rules apply.
+
+Amounts includible in income under section 951(a) generally must be taken into account in figuring the amount of any annualized income installment as the income is earned. The amounts are figured in a manner similar to the way in which partnership income inclusions are taken into account in figuring a partner's annualized income installments as provided in Regulations section 1.6654-2(d)(2).
+
+Safe harbor election. Corporations may be able to make a prior year safe harbor election. Under the election, an eligible corporation is treated as having received ratably during the tax year items of income under section 951(a) equal to 115% (100% for a noncontrolling shareholder) of the amounts shown on the corporation's return for the first preceding tax year (the second preceding tax year for the first and second required installments).
+
+For more information, see section 6655(e)(4)(B) and Regulations section 1.6655-2(f)(3)(v)(B)(2).
+
+Extraordinary items. If the corporation has extraordinary items, special rules apply. Do not include on line 21 the de minimis extraordinary items that the corporation chooses to include on line 23b. See Extraordinary items earlier.
+
+Line 22. Annualization Amounts
+
+Enter the annualization amounts for the option used on line 20. For example, if the corporation elects Option 1, enter on line 22 the annualization amounts 6, 3, 1.71429, and 1.2, in columns (a) through (d), respectively.
+
+Note: In this table, columns follow each other in this order: Option: 1st Installment; 2nd Installment; 3rd Installment; 4th Installment
+Standard option: 4; 4; 2; 1.33333
+Option 1: 6; 3; 1.71429; 1.2
+Option 2: 4; 2.4; 1.5; 1.09091
+
+Line 23b
+
+If the corporation has certain extraordinary items of $1,000,000 or more, a net operating loss deduction, or a section 481(a) adjustment, special rules apply. Include these amounts on line 23b. Also include on line 23b the de minimis extraordinary items that the corporation chooses to exclude from line 21. See Extraordinary items earlier.
+
+Line 24
+
+Figure the tax on the amount in each column on line 23c by following the same steps used to figure the tax on Form 1120-W, page 1, line 14.
+
+Line 25. Alternative Minimum Tax
+
+The corporation may owe AMT unless it will be a "small corporation" exempt from the AMT under section 55(e) for its 2015 tax year. To figure the AMT, use the 2014 Form 4626 and its instructions as a guide. Figure AMTI using income and deductions for the annualization period entered in each column on line 20. Multiply the AMTI by the annualization amounts on line 22 before subtracting the exemption amount. Multiply that result by 20% and subtract any AMT foreign tax credit plus the amount on line 24 to arrive at the AMT.
+
+Line 26. Other Taxes
+
+For the same taxes used to figure line 19 of Form 1120-W, figure the amounts for the months shown on line 20.
+
+Line 28. Credits
+
+Enter the credits to which the corporation is entitled for the months shown in each column on line 20. Do not annualize any credit. However, when figuring the credits, annualize any item of income or deduction used to figure the credit.
+
+Part III. Required Installments
+
+Line 33
+
+Before completing line 33 in columns (b) through (d), complete lines 34 through 38 in each of the preceding columns. For example, complete lines 34 through 38 in column (a) before completing line 33 in column (b).
+
+<page 5>
+
+Line 35
+
+"Large corporations," see the instructions for page 1, line 25, for the amount to enter.
+
+Line 38. Required Installments
+
+For each installment, enter the smaller of line 34 or line 37 on line 38. Also enter the result on page 1, Part I, line 25.
+
+Paperwork Reduction Act Notice
+
+Your use of this form is optional. It is provided to aid the corporation in determining its tax liability.
+
+You are not required to provide the information requested on a form that is subject to the Paperwork Reduction Act unless the form displays a valid OMB control number. Books or records relating to a form or its instructions must be retained as long as their contents may become material in the administration of any Internal Revenue law. Generally, tax returns and return information are confidential, as required by section 6103.
+
+The time needed to complete this form will vary depending on individual circumstances. The estimated average time is:
+
+Note: In this table, columns follow each other in this order: Form: Recordkeeping; Learning about the law or the form; Preparing the form & sending
+1120-W: 10 hr., 45 min.; 1 hr., 35 min.; 1 hr., 50 min.
+1120-W, Sch. A (Pt. I): 24 hr., 37 min.; 1 hr.; 1 hr., 26 min.
+1120-W, Sch. A (Pt. II): 12 hr., 26 min.; 35 min.; 49 min.
+1120-W, Sch. A (Pt. III): 6 hr., 13 min.; 6 min.; 12 min.
+
+If you have comments concerning the accuracy of these time estimates or suggestions for making this form simpler, we would be happy to hear from you. You can send us comments from www.irs.gov/formspubs. Click on "More Information" and then "Give us feedback." You can also send your comments to the Internal Revenue Service, Tax Forms and Publications Division, 1111 Constitution Ave. NW, IR-6526, Washington, DC 20224. Do not send the tax form to this office. Instead, keep the form for your records.
+
+End of Form 1120-W and Instructions
+

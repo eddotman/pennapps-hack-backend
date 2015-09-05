@@ -1,5 +1,5 @@
 from flask import Flask
-from pdfs import (request_form)
+from forms import (request_form)
 
 app = Flask(__name__)
 

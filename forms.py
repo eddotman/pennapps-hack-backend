@@ -1,15 +1,14 @@
 from spacy.en import English
-from slate import PDF
 from flask import jsonify
 
 nlp = English()
 
 def request_form(form): 
-  pdf = None
-  with open('pdfs/' + form + '.pdf') as f:
-    pdf = PDF(f)
+  txtform = None
+  with open('txt/' + form + '.txt', 'rb') as f:
+    txtform = f.read()
 
-  if pdf is None: return 1
+  if txtform is None: return 1
 
   ret_doc = {
     "instructions": "",
@@ -23,11 +22,8 @@ def request_form(form):
     ]
   }
 
-  u_pdf = unicode('')
-  for page in pdf:
-    u_pdf += str(page).decode('utf-8')
-
-  tokens = nlp(u_pdf)
+  u_txtform = unicode(str(txtform).decode('latin_1'))
+  tokens = nlp(u_txtform)
   
   #this check should be last
   fill_verbs = set(['enter', 'fill', 'provide', 'list'])
