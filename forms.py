@@ -143,11 +143,16 @@ def populate_fields(pdfname, inputs):
   raw_output = result.split('\n')
   print "RAW_OUTPUT"
   print raw_output
+  print "-----------------------"
 
   for line in raw_output:
     if 'FieldNameAlt' in line:
         fieldnamealt = line[line.index('FieldNameAlt: ')+14:]
+        print "FIELDNAMEALT"
+        print fieldnamealt
         for key, value in inputs.items():
+          print key
+          print value
           if value in fieldnamealt or fieldnamealt in value:
             fields.append((reference[fieldnamealt], key))
             break
