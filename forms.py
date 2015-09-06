@@ -123,7 +123,8 @@ def populate_fields(pdfname):
     idx = temp_raw.index('FieldName: ')
     print "IDX " + str(idx)
     temp_raw = temp_raw[:idx]
-    new_set = set(temp_raw[(idx + 11):temp_raw.index('\n')], "inputs['inputs["+str(i)+"][value]")
+    print "TEMP_RAW " + str(temp_raw) 
+    new_set = (temp_raw[(idx + 11):temp_raw.index('\n')], "inputs['inputs["+str(i)+"][value]")
     fields.append(new_set)
     temp_raw = temp_raw[:temp_raw.index('\n')+3]
     i = i+1
