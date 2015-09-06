@@ -111,14 +111,9 @@ def populate_fields(pdfname):
   pdf_url = 'pdftk pdfs/' + pdfname +  '.pdf dump_data_fields'
   raw_output = subprocess.check_output(pdf_url, shell=True).split('\n')
   print "RAW OUTPUT"
-  print raw_output
+  print str(raw_output)
   fields = []
   i = 0
-  temp_raw = raw_output
-
-  print "FIRST_ITERATION"
-  print str(temp_raw.index('FieldName: '))
-
 
 
   for line in raw_output:
