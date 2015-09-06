@@ -1,0 +1,106 @@
+
+Form W-10 
+Dependent Care Provider's Identification and Certification
+(Rev. July 2011)
+
+Cat. No. 31440M
+
+Department of the Treasury
+Internal Revenue Service
+
+In 1 File
+Print page 1
+
+Provided by the IRS AMC
+(Alternative Media Center)
+2011
+ 
+
+Contents
+
+Section:  Page
+Form W-10:  1
+General Instructions:  1
+Specific Instructions:  1
+
+This electronic edition contains the entire text of the print edition.
+
+<page 1>
+
+Form W-10
+Dependent Care Provider's Identification and Certification
+(Rev. July 2011)
+
+Do NOT file Form W-10 with your tax return. Instead, keep it for your records.
+
+Part I--Dependent Care Provider's Identification
+
+(See instructions.)
+
+Please print or type.
+Name of dependent care provider: ----
+Address (number, street, and apt. no.): ----
+City, state, and ZIP code: ----
+Provider's taxpayer identification number: ----
+If the above number is a social security number, check here: --
+
+Certification and Signature of Dependent Care Provider. Under penalties of perjury, I, as the dependent care provider, certify that my name, address, and taxpayer identification number shown above are correct.
+
+Please Sign Here
+Dependent care provider's signature: ----
+Date: ----
+
+Part II--Name and Address of Person Requesting Part I Information
+
+(See instructions.)
+Name, street address, apt. no., city, state, and ZIP code of person requesting information: ----
+
+General Instructions
+
+Section references are to the Internal Revenue Code.
+
+Purpose of form. You must get the information shown in Part I from each person or organization that provides care for your child or other dependent if:
+1. You plan to claim a credit for child and dependent care expenses on Form 1040 or 1040A, or
+2. You receive benefits under your employer's dependent care plan.
+
+If either 1 or 2 above applies, you must show the correct name, address, and taxpayer identification number (TIN) of each care provider on Form 2441, Child and Dependent Care Expenses.
+
+You may use Form W-10 or any of the other sources listed under Due diligence below to get this information from each provider.
+
+Penalty for failure to furnish TIN. TINs are needed to carry out the Internal Revenue laws of the United States. Section 6109(a) requires a provider of dependent care services to give to you a valid TIN, even if the provider is not required to file a return. The IRS uses the TIN to identify the provider and verify the accuracy of the provider's return as well as yours.
+
+A care provider who does not give you his or her correct TIN is subject to a penalty of $50 for each failure unless the failure is due to reasonable cause and not willful neglect. This penalty does not apply to an organization described in section 501(c)(3). See Tax-exempt dependent care provider, later.
+
+If incorrect information is reported. You will not be allowed the tax credit or the exclusion for employer-provided dependent care benefits if:
+-- You report an incorrect name, address, or TIN of the provider on your Form 2441 and
+-- You cannot establish, to the IRS upon its request, that you used due diligence in trying to get the required information.
+
+Due diligence. You can show due diligence by getting and keeping in your records any one of the following:
+-- A Form W-10 properly completed by the provider.
+-- A copy of the provider's social security card or driver's license that includes his or her social security number.
+-- A recently printed letterhead or printed invoice that shows the provider's name, address, and TIN.
+-- If the provider is your employer's dependent care plan, a copy of the statement provided by your employer under the plan.
+-- If the provider is your household employee and he or she gave you a properly completed Form W-4, Employee's Withholding Allowance Certificate, to have income tax withheld, a copy of that Form W-4.
+
+If your care provider does not comply with your request for one of these items, you must still report certain information on your Form 2441. For details, see the Form 2441 instructions.
+
+Specific Instructions
+
+Part I
+
+The individual or organization providing the care completes this part.
+
+Enter the provider's name, address, and TIN. For individuals and sole proprietors, the TIN is a social security number (SSN). But if the provider is a nonresident or resident alien who does not have and is not eligible to get an SSN, the TIN is an IRS individual taxpayer identification number (ITIN). For other entities, it is the employer identification number. If the provider is exempt from federal income tax as an organization described in section 501(c)(3), see Tax-exempt dependent care provider below.
+
+How to get a TIN. Providers who do not have a TIN should apply for one immediately. To apply for an SSN, get Form SS-5, Application for a Social Security Card, from your local Social Security Administration office. To apply for an ITIN, get Form W-7, Application for IRS Individual Taxpayer Identification Number, from the IRS. To apply for an EIN, get Form SS-4, Application for Employer Identification Number, from the IRS.
+
+Note. An ITIN is for tax use only. It does not entitle the individual to social security benefits or change his or her employment or immigration status under U.S. law.
+
+Tax-exempt dependent care provider. A provider who is a tax-exempt organization described in section 501(c)(3) and exempt under section 501(a) is not required to supply its TIN. Instead, the provider must complete the name and address lines and write "tax-exempt" in the space for the TIN. Generally, an exempt 501(c)(3) organization is one organized and operated exclusively for religious, charitable, scientific, testing for public safety, literary, or educational purposes, or for the prevention of cruelty to children or animals.
+
+Part II
+
+Complete this part only if you are leaving the form with the dependent care provider to return to you later.
+
+End of Form W-10
+
