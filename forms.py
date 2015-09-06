@@ -91,7 +91,7 @@ def fill_w10(form, data):
   # print "data", data
   inputs = formencode.variabledecode.variable_decode(data)
   # print "inputs", inputs
-  fields = populate_fields(form)
+  fields = populate_fields(form, inputs)
   # fields = [
   #   ('topmostSubform[0].Page1[0].p1-t1[0]', inputs['inputs[0][value]']),
   #   ('topmostSubform[0].Page1[0].p1-t2[0]', inputs['inputs[1][value]']),
@@ -107,7 +107,7 @@ def fill_w10(form, data):
   call(['pdftk pdfs/' + form + '.pdf fill_form data.fdf output pdfs/output.pdf flatten'], shell=True)
 
 
-def populate_fields(pdfname):
+def populate_fields(pdfname, inputs):
   pdf_url = 'pdftk pdfs/' + pdfname +  '.pdf dump_data_fields'
   raw_output = subprocess.check_output(pdf_url, shell=True).split('\n')
   fields = []
@@ -118,11 +118,11 @@ def populate_fields(pdfname):
     print "NEXT ITERATION"
     print "LINE " + str(line)
     try:
-      matched =  bool(line.index('FieldName') is not None)
+      matched =  bool(line.index('FieldName: ') is not None)
     except:
       matched = False
     if(matched):
-      new_set = (temp_raw[11:], "inputs['inputs["+str(i)+"][value]")
+      new_set = (line[11:], inputs['inputs['+str(i)+'][value]'])
       fields.append(new_set)
       i += 1
 
