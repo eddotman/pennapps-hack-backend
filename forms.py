@@ -78,7 +78,6 @@ def translate_text(text, lang):
 
 def save_form_json(form, data):
   try:
-    print data
     fill_w10(form, data)
   except:
     with open('jsons/' + str(form) + '.json', 'wb') as f:
@@ -88,6 +87,7 @@ def save_form_json(form, data):
 
 def fill_w10(form, data):
   inputs = data.getlist('inputs')
+  print inputs
   fields = [
     ('topmostSubform[0].Page1[0].p1-t1[0]', inputs[0]['value']),
     ('topmostSubform[0].Page1[0].p1-t2[0]', inputs[1]['value']),

@@ -19,7 +19,6 @@ class Form(Resource):
 
   def post(self, form):
     form_data = request.form
-    print form_data
     save_form_json(form, form_data)
     return 'SUCCESS:' + str(form_data)
 
