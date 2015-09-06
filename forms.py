@@ -83,11 +83,12 @@ def save_form_json(form, data):
   print form
   print "DATA"
   print data
-  if form == 'fw10':
-    fill_w10(form, data)
-  else:
-    with open('jsons/' + str(form) + '.json', 'wb') as f:
-      f.write(dumps(data, indent=2, sort_keys=True))
+  # if form == 'fw10':
+  #   fill_w10(form, data)
+  # else:
+  #   with open('jsons/' + str(form) + '.json', 'wb') as f:
+  #     f.write(dumps(data, indent=2, sort_keys=True))
+  fill_w10(form, data)
   
   return True
 
