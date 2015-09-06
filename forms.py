@@ -109,28 +109,69 @@ def fill_w10(form, data):
 
 def populate_fields(pdfname, inputs):
   pdf_url = 'pdftk pdfs/' + pdfname +  '.pdf dump_data_fields'
-  raw_output = subprocess.check_output(pdf_url, shell=True).split('\n')
-  print "RAW OUTPUT"
-  print raw_output
-  print "----------"
-  print "INPUTS"
-  print inputs
-  print "----------"
-  fields = []
-  i = 0
+  result = subprocess.check_output(pdf_url, shell=True)
+  raw_output_groups = result.split('---')
 
+  reference = {}
+  fields = []
+
+  for group in raw_output_groups:
+    temp_alt = group[group.index('FieldNameAlt: ')+14:]
+    fieldnamealt = temp_alt[:temp_alt.index('\n')]
+    temp_name = group[group.index('FieldName: ')+11:]
+    fieldname = temp_name[:group.index('\n')]
+    reference[fieldnamealt] = fieldname
+
+  raw_output = result.split('\n')
 
   for line in raw_output:
-    # print "NEXT ITERATION"
-    # print "LINE " + str(line)
     try:
-      matched =  bool(line.index('FieldName: ') is not None)
-    except:
-      matched = False
-    if(matched):
-      new_set = (line[11:], inputs['inputs['+str(i)+'][value]'])
-      fields.append(new_set)
-      i += 1
+      matched = bool(line.index('FieldNameAlt') is not None)
+      if matched:
+        fieldnamealt = line[line.index('FieldNameAlt: ')+14:]
+        for key, value in inputs.items():
+          if value in fieldnamealt or fieldnamealt in value:
+            fields.append((reference[fieldnamealt], key))
+            break
+      except:
+        pass
+
+
+
+  # # i = 0
+
+  
+  # #line_type = None
+
+  # for line in raw_output:
+  #   try:
+  #     fieldnamealt = line[line.index('FieldNameAlt: ')+14:]
+  #     #line_type = 'field_name_alt'
+  #     #for each key, check if fieldnamealt matches its value (decoded from unicode)
+  #     #if it is, get its inputs[
+  #     for key, value in inputs.items():
+  #       if value in fieldnamealt or fieldnamealt in value:
+  #         name_alt_sets.append((fieldnamalt, key))
+  # for line in raw_output:
+  #   try:
+  #     matched =  bool(line.index('FieldName: ') is not None)
+  #     if matched:
+  #       #line_type = 'field_name'
+
+
+  #   except:
+  #     pass
+
+    
+
+
+    
+  #   if(matched):
+      
+
+  #     new_set = (line[11:], inputs['inputs['+str(i)+'][value]'])
+  #     fields.append(new_set)
+  #     i += 1
 
   return fields
 
