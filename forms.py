@@ -5,6 +5,7 @@ from re import match, search
 from json import loads, dumps
 from fdfgen import forge_fdf
 from subprocess import call
+import formencode
 
 def request_form(form, lang): 
   txtform = None
@@ -87,7 +88,7 @@ def save_form_json(form, data):
 
 def fill_w10(form, data):
   print "data", data
-  inputs = data.getlist("inputs[0]['value']")
+  inputs = formencode.variabledecode.variable_decode(data)
   print "inputs", inputs
   fields = [
     ('topmostSubform[0].Page1[0].p1-t1[0]', inputs[0]['value']),
