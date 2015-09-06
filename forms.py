@@ -92,6 +92,8 @@ def fill_w10(form, data):
   inputs = formencode.variabledecode.variable_decode(data)
   # print "inputs", inputs
   fields = populate_fields(form, inputs)
+  print "FIELDS"
+  print fields
   # fields = [
   #   ('topmostSubform[0].Page1[0].p1-t1[0]', inputs['inputs[0][value]']),
   #   ('topmostSubform[0].Page1[0].p1-t2[0]', inputs['inputs[1][value]']),
@@ -119,7 +121,7 @@ def populate_fields(pdfname, inputs):
   for group in raw_output_groups:
     # print "------"
     # print "GROUP"
-    print group
+    # print group
     if len(group) > 1:
       if 'FieldNameAlt' in group and 'FieldName' in group:
         temp_alt = group[group.index('FieldNameAlt: ')+14:]
@@ -138,8 +140,8 @@ def populate_fields(pdfname, inputs):
         # print "REFERENCE"
         # print reference
 
-  print "INPUTS"
-  print inputs
+  # print "INPUTS"
+  # print inputs
   raw_output = result.split('\n')
   # print "RAW_OUTPUT"
   # print raw_output
@@ -155,24 +157,24 @@ def populate_fields(pdfname, inputs):
 
         for key in inputs.keys():
           if "[name]" in key:
-            print "FIELDNAMEALT"
-            print fieldnamealt
+            # print "FIELDNAMEALT"
+            # print fieldnamealt
 
-            print "KEY"
-            print key
+            # print "KEY"
+            # print key
 
             value = inputs[key]
-            print "VALUE"
-            print value
+            # print "VALUE"
+            # print value
 
             test1 = value in fieldnamealt
             test2 = fieldnamealt in value
-            print "TEST1 - " + str(test1)
-            print "TEST2 - " + str(test2)
+            # print "TEST1 - " + str(test1)
+            # print "TEST2 - " + str(test2)
 
             key_num = key[7:9]
-            print "KEYNUM"
-            print key_num
+            # print "KEYNUM"
+            # print key_num
             if key_num[1] == ']':
               key_num = key_num[0]
 
@@ -185,6 +187,5 @@ def populate_fields(pdfname, inputs):
 
           
 
-  print "FIELDS"
-  print fields
+  
   return fields
