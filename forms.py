@@ -117,6 +117,7 @@ def populate_fields(pdfname, inputs):
   fields = []
 
   for group in raw_output_groups:
+    if len(group) == 0: pass
     print "TEMP_ALT"
     temp_alt = group[group.index('FieldNameAlt: ')+14:]
     
