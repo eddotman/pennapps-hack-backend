@@ -32,7 +32,7 @@ def request_form(form, lang):
   for line in txtform:
     u_line = unicode(str(line).decode('latin_1').replace(u"\u2018", "").replace(u"\u2019", "").replace(u"\u201c","").replace(u"\u201d", "").replace(u"\u2014", "-"))
 
-    if search('^([a-zA-Z]|\d)\.', u_line) or search('\-\-\-\-', u_line):
+    if search('\-\-\-\-', u_line):
       if search('(\$|\%|[aA]dd|[sS]ubtract|[mM]ultiply|[iI]ncome|[sS]alary|[wW]ages|[dD]ivid(e|end)|[iI]nterest|less|more|equal)', u_line):
         f_types.append('currency')
       elif search('\[*\]', u_line):
@@ -87,13 +87,14 @@ def save_form_json(form, data):
   return True
 
 def fill_w10(form, data):
+  inputs = data.getlist('inputs')
   fields = [
-    ('topmostSubform[0].Page1[0].p1-t1[0]', data['inputs'][0]['value']),
-    ('topmostSubform[0].Page1[0].p1-t2[0]', data['inputs'][1]['value']),
-    ('topmostSubform[0].Page1[0].p1-t3[0]', data['inputs'][2]['value']),
-    ('topmostSubform[0].Page1[0].p1-cb1[0]', data['inputs'][3]['value']),
-    ('topmostSubform[0].Page1[0].p1-t4[0]', data['inputs'][4]['value']),
-    ('topmostSubform[0].Page1[0].p1-t5[0]', data['inputs'][5]['value']),
+    ('topmostSubform[0].Page1[0].p1-t1[0]', inputs[0]['value']),
+    ('topmostSubform[0].Page1[0].p1-t2[0]', inputs[1]['value']),
+    ('topmostSubform[0].Page1[0].p1-t3[0]', inputs[2]['value']),
+    ('topmostSubform[0].Page1[0].p1-cb1[0]', inputs[3]['value']),
+    ('topmostSubform[0].Page1[0].p1-t4[0]', inputs[4]['value']),
+    ('topmostSubform[0].Page1[0].p1-t5[0]', inputs[5]['value']),
   ]
   fdf = forge_fdf("",fields,[],[],[])
   fdf_file = open("data.fdf","wb")
