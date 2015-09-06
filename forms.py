@@ -121,10 +121,6 @@ def populate_fields(pdfname, inputs):
     print "GROUP"
     print group
     if len(group) > 1:
-      matched_namealt = 'FieldNameAlt' in group
-      matched_name = 'FieldName' in group
-      print matched_namealt
-      print matched_name
       if 'FieldNameAlt' in group and 'FieldName' in group:
         temp_alt = group[group.index('FieldNameAlt: ')+14:]
         print "TEMP_ALT"
@@ -159,54 +155,5 @@ def populate_fields(pdfname, inputs):
     except:
       pass
 
-
-
-  # # i = 0
-
-  
-  # #line_type = None
-
-  # for line in raw_output:
-  #   try:
-  #     fieldnamealt = line[line.index('FieldNameAlt: ')+14:]
-  #     #line_type = 'field_name_alt'
-  #     #for each key, check if fieldnamealt matches its value (decoded from unicode)
-  #     #if it is, get its inputs[
-  #     for key, value in inputs.items():
-  #       if value in fieldnamealt or fieldnamealt in value:
-  #         name_alt_sets.append((fieldnamalt, key))
-  # for line in raw_output:
-  #   try:
-  #     matched =  bool(line.index('FieldName: ') is not None)
-  #     if matched:
-  #       #line_type = 'field_name'
-
-
-  #   except:
-  #     pass
-
-    
-
-
-    
-  #   if(matched):
-      
-
-  #     new_set = (line[11:], inputs['inputs['+str(i)+'][value]'])
-  #     fields.append(new_set)
-  #     i += 1
-
+  print "FIELDS"
   return fields
-
-
-# request_form('f1120w15', 'en-ko')
-# fill_w10('fw10_accessible', {
-#   'inputs': [
-#     {'value': 'test'},
-#     {'value': 'test'},
-#     {'value': 'test'},
-#     {'value': 'test'},
-#     {'value': 'test'},
-#     {'value': 'test'}
-#   ]
-#   })
