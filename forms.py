@@ -117,43 +117,38 @@ def populate_fields(pdfname, inputs):
   fields = []
 
   for group in raw_output_groups:
-    print "------"
-    print "GROUP"
+    # print "------"
+    # print "GROUP"
     print group
     if len(group) > 1:
       if 'FieldNameAlt' in group and 'FieldName' in group:
         temp_alt = group[group.index('FieldNameAlt: ')+14:]
-        print "TEMP_ALT"
-        print temp_alt
+        # print "TEMP_ALT"
+        # print temp_alt
         fieldnamealt = temp_alt[:temp_alt.index('\nField')]
-        print "FIELD_ALT"
-        print fieldnamealt
+        # print "FIELD_ALT"
+        # print fieldnamealt
         temp_name = group[group.index('FieldName: ')+11:]
-        print "TEMPNAME"
-        print temp_name
+        # print "TEMPNAME"
+        # print temp_name
         fieldname = temp_name[:temp_name.index('\nField')]
-        print "FIELDNAME"
-        print fieldname
+        # print "FIELDNAME"
+        # print fieldname
         reference[fieldnamealt] = fieldname
-        print "REFERENCE"
-        print reference
+        # print "REFERENCE"
+        # print reference
 
-
-  print "REFERECE"
-  print reference
+  print "INPUTS"
+  print inputs
   raw_output = result.split('\n')
 
   for line in raw_output:
-    try:
-      matched = bool(line.index('FieldNameAlt') is not None)
-      if matched:
+    if 'FieldNameAlt' in line:
         fieldnamealt = line[line.index('FieldNameAlt: ')+14:]
         for key, value in inputs.items():
           if value in fieldnamealt or fieldnamealt in value:
             fields.append((reference[fieldnamealt], key))
             break
-    except:
-      pass
 
   print "FIELDS"
   print fields
