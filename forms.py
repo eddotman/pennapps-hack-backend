@@ -141,6 +141,8 @@ def populate_fields(pdfname, inputs):
   print "INPUTS"
   print inputs
   raw_output = result.split('\n')
+  print "RAW_OUTPUT"
+  print raw_output
 
   for line in raw_output:
     if 'FieldNameAlt' in line:
