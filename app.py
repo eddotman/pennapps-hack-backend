@@ -19,7 +19,7 @@ class Form(Resource):
   def put(self, form):
     form_data = request.form
     save_form_json(form, form_data)
-    return 'Success!'
+    return 'SUCCESS:' + form_data
 
 api.add_resource(Form, '/<form>', '/<form>/<lang>')
 
