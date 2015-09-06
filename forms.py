@@ -2,7 +2,7 @@ from flask import jsonify
 from requests import post
 from os import environ
 from re import match, search
-from json import loads
+from json import loads, dumps
 
 def request_form(form, lang): 
   txtform = None
@@ -74,4 +74,10 @@ def translate_text(text, lang):
   r = post('https://translate.yandex.net/api/v1.5/tr.json/translate', data=data)
   return loads(r.text)['text']
 
+def save_form_json(form, data):
+  with open('jsons/' + str(form) + '.json', 'wb') as f:
+    f.write(dumps(data, indent=2, sort_keys=True))
+  return True
+
 # request_form('f1120w15', 'en-ko')
+
