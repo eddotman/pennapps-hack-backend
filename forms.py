@@ -165,7 +165,7 @@ def populate_fields(pdfname, inputs):
 
             if value in fieldnamealt or fieldnamealt in value:
               fields.append((reference[fieldnamealt], key))
-              continue
+              break
 
           
 
