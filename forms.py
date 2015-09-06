@@ -115,6 +115,8 @@ def populate_fields(pdfname):
 
 
   for line in raw_output:
+    print str(line.index('FieldName'))
+    print "LINE" + str(line)
     if(line.index('FieldName')):
       new_set = (temp_raw[11:], "inputs['inputs["+str(i)+"][value]")
       fields.append(new_set)
