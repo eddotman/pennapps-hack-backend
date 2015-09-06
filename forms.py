@@ -4,6 +4,7 @@ from os import environ
 from re import match, search
 from json import loads, dumps
 from fdfgen import forge_fdf
+from subprocess import call
 
 def request_form(form, lang): 
   txtform = None
@@ -76,20 +77,35 @@ def translate_text(text, lang):
   return loads(r.text)['text']
 
 def save_form_json(form, data):
-  with open('jsons/' + str(form) + '.json', 'wb') as f:
-    f.write(dumps(data, indent=2, sort_keys=True))
+  # with open('jsons/' + str(form) + '.json', 'wb') as f:
+  #   f.write(dumps(data, indent=2, sort_keys=True))
+  fill_w10(form, data)
   return True
 
-def fill_pdf():
+def fill_w10(form, data):
   fields = [
-    ('topmostSubform[0].Page1[0].f1_1[0]', 'John Smith'),
-    ('topmostSubform[0].Page1[0].f1_2[0]', '555-1234'),
-    ('topmostSubform[0].Page1[0].FederalClassification[0].c1_1[0]', '1'),
+    ('topmostSubform[0].Page1[0].p1-t1[0]', data['inputs'][0]['value']),
+    ('topmostSubform[0].Page1[0].p1-t2[0]', data['inputs'][1]['value']),
+    ('topmostSubform[0].Page1[0].p1-t3[0]', data['inputs'][2]['value']),
+    ('topmostSubform[0].Page1[0].p1-cb1[0]', data['inputs'][3]['value']),
+    ('topmostSubform[0].Page1[0].p1-t4[0]', data['inputs'][4]['value']),
+    ('topmostSubform[0].Page1[0].p1-t5[0]', data['inputs'][5]['value']),
   ]
   fdf = forge_fdf("",fields,[],[],[])
   fdf_file = open("data.fdf","wb")
   fdf_file.write(fdf)
   fdf_file.close()
+  call(['pdftk pdfs/' + form + '.pdf fill_form data.fdf output output.pdf flatten'], shell=True)
+
 
 # request_form('f1120w15', 'en-ko')
-# fill_pdf()
+# fill_w10('fw10_accessible', {
+#   'inputs': [
+#     {'value': 'test'},
+#     {'value': 'test'},
+#     {'value': 'test'},
+#     {'value': 'test'},
+#     {'value': 'test'},
+#     {'value': 'test'}
+#   ]
+#   })
