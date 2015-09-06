@@ -88,9 +88,9 @@ def save_form_json(form, data):
   return True
 
 def fill_w10(form, data):
-  print "data", data
+  # print "data", data
   inputs = formencode.variabledecode.variable_decode(data)
-  print "inputs", inputs
+  # print "inputs", inputs
   fields = populate_fields(form)
   # fields = [
   #   ('topmostSubform[0].Page1[0].p1-t1[0]', inputs['inputs[0][value]']),
@@ -108,8 +108,8 @@ def fill_w10(form, data):
 
 
 def populate_fields(pdfname):
-  pdf_url = 'pdftk pdfs/' + pdfname +  ' dump_data_fields'
-  raw_output = subprocess.checkoutput(pdf_url, shell=True)
+  pdf_url = 'pdftk pdfs/' + pdfname +  '.pdf dump_data_fields'
+  raw_output = str(subprocess.checkoutput(pdf_url, shell=True))
   print raw_output
   fields = []
   i = 0
@@ -120,7 +120,7 @@ def populate_fields(pdfname):
     temp_raw = temp_raw[:idx]
     new_set = set(temp_raw[(idx + 11):temp_raw.index('\n')], "inputs['inputs["+str(i)+"][value]")
     fields.append(new_set)
-    temp_raw = temp_raw[:temp_raw.index('\n')+1]
+    temp_raw = temp_raw[:temp_raw.index('\n')+3]
     i = i+1
 
   return fields
