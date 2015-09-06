@@ -86,6 +86,7 @@ def save_form_json(form, data):
   return True
 
 def fill_w10(form, data):
+  print data
   inputs = data.getlist('inputs')
   print inputs
   fields = [
