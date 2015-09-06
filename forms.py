@@ -32,7 +32,7 @@ def request_form(form, lang):
   for line in txtform:
     u_line = unicode(str(line).decode('latin_1').replace(u"\u2018", "").replace(u"\u2019", "").replace(u"\u201c","").replace(u"\u201d", "").replace(u"\u2014", "-"))
 
-    if search('^([a-zA-Z]|\d)\.', u_line) or search('\-\-\-\-', u_line):
+    if search('^([a-zA-Z]|\d)\.', u_line):
       if search('(\$|\%|[aA]dd|[sS]ubtract|[mM]ultiply|[iI]ncome|[sS]alary|[wW]ages|[dD]ivid(e|end)|[iI]nterest|less|more|equal)', u_line):
         f_types.append('currency')
       elif search('\[*\]', u_line):
