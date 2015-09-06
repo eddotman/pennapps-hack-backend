@@ -151,7 +151,9 @@ def populate_fields(pdfname, inputs):
         print "FIELDNAMEALT"
         print fieldnamealt
         for key, value in inputs.items():
+          print "KEY"
           print key
+          print "VALUE"
           print value
           if value in fieldnamealt or fieldnamealt in value:
             fields.append((reference[fieldnamealt], key))
