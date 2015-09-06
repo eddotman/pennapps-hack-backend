@@ -122,16 +122,18 @@ def populate_fields(pdfname, inputs):
         temp_alt = group[group.index('FieldNameAlt: ')+14:]
         print "TEMP_ALT"
         print temp_alt
-        fieldnamealt = temp_alt[:temp_alt.index('\n')]
+        fieldnamealt = temp_alt[:temp_alt.index('Field')]
         print "FIELD_ALT"
         print fieldnamealt
         temp_name = group[group.index('FieldName: ')+11:]
         print "TEMPNAME"
         print temp_name
-        fieldname = temp_name[:group.index('\n')]
+        fieldname = temp_name[:group.index('Field')]
         print "FIELDNAME"
         print fieldname
         reference[fieldnamealt] = fieldname
+        print "REFERENCE"
+        print reference
 
 
   print "REFERECE"
