@@ -122,6 +122,9 @@ def populate_fields(pdfname, inputs):
     fieldname = temp_name[:group.index('\n')]
     reference[fieldnamealt] = fieldname
 
+
+  print "REFERECE"
+  print reference
   raw_output = result.split('\n')
 
   for line in raw_output:
