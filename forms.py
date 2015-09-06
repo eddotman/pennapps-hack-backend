@@ -178,10 +178,15 @@ def populate_fields(pdfname, inputs):
             if key_num[1] == ']':
               key_num = key_num[0]
 
-            fields.append((reference[fieldnamealt], inputs['inputs['+str(key_num)+'][value]']))
+            val_first_word = value.split(" ")[0]
+            print "VAL FISRT"
+            print val_first_word
 
-            if value in fieldnamealt or fieldnamealt in value:
-              print "SLAHDUOYIHP){OPJNSBHKUYHIPOJNBHLGVUYHIOJOPNBHLGVKUYOP(*IJKNBHKGVUY"
+            if val_first_word in fieldnamealt:
+              fields.append((reference[fieldnamealt], inputs['inputs['+str(key_num)+'][value]']))
+              break
+
+            
               
 
           
