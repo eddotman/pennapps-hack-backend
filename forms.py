@@ -155,6 +155,8 @@ def populate_fields(pdfname, inputs):
         print fieldnamealt
 
         for key in inputs.keys():
+          if "[name]" not in key:
+            pass
           print "KEY"
           print key
 
