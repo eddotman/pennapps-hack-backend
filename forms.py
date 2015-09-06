@@ -110,13 +110,12 @@ def fill_w10(form, data):
 def populate_fields(pdfname):
   pdf_url = 'pdftk pdfs/' + pdfname +  '.pdf dump_data_fields'
   raw_output = subprocess.check_output(pdf_url, shell=True).split('\n')
-  print "RAW OUTPUT"
-  print str(raw_output)
   fields = []
   i = 0
 
 
   for line in raw_output:
+    print str(search('FieldName', line))
     if(search('FieldName', line)):
       new_set = (temp_raw[11:], "inputs['inputs["+str(i)+"][value]")
       fields.append(new_set)
