@@ -170,10 +170,12 @@ def populate_fields(pdfname, inputs):
             print "TEST1 - " + str(test1)
             print "TEST2 - " + str(test2)
 
-            if value in fieldnamealt or fieldnamealt in value:
-              print "SLAHDUOYIHP){OPJNSBHKUYHIPOJNBHLGVUYHIOJOPNBHLGVKUYOP(*IJKNBHKGVUY"
-              fields.append((reference[fieldnamealt], key))
-              break
+            fields.append((reference[fieldnamealt], key))
+
+            # if value in fieldnamealt or fieldnamealt in value:
+            #   print "SLAHDUOYIHP){OPJNSBHKUYHIPOJNBHLGVUYHIOJOPNBHLGVKUYOP(*IJKNBHKGVUY"
+              
+            #   break
 
           
 
