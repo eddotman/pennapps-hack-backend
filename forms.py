@@ -91,12 +91,12 @@ def fill_w10(form, data):
   inputs = formencode.variabledecode.variable_decode(data)
   print "inputs", inputs
   fields = [
-    ('topmostSubform[0].Page1[0].p1-t1[0]', inputs[0]['value']),
-    ('topmostSubform[0].Page1[0].p1-t2[0]', inputs[1]['value']),
-    ('topmostSubform[0].Page1[0].p1-t3[0]', inputs[2]['value']),
-    ('topmostSubform[0].Page1[0].p1-cb1[0]', inputs[3]['value']),
-    ('topmostSubform[0].Page1[0].p1-t4[0]', inputs[4]['value']),
-    ('topmostSubform[0].Page1[0].p1-t5[0]', inputs[5]['value']),
+    ('topmostSubform[0].Page1[0].p1-t1[0]', inputs['inputs[0][value]']),
+    ('topmostSubform[0].Page1[0].p1-t2[0]', inputs['inputs[1][value]']),
+    ('topmostSubform[0].Page1[0].p1-t3[0]', inputs['inputs[2][value]']),
+    ('topmostSubform[0].Page1[0].p1-cb1[0]', inputs['inputs[3][value]']),
+    ('topmostSubform[0].Page1[0].p1-t4[0]', inputs['inputs[4][value]']),
+    ('topmostSubform[0].Page1[0].p1-t5[0]', inputs['inputs[5][value]']),
   ]
   fdf = forge_fdf("",fields,[],[],[])
   fdf_file = open("data.fdf","wb")
