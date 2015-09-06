@@ -1,0 +1,45 @@
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].p1-t1[0]
+FieldNameAlt: Page 1. Part 1. Dependent Care Provider's Identification (See instructions). Please print or type. Name of dependent care provider.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].p1-t2[0]
+FieldNameAlt: Provider's taxpayer identification number.
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].p1-t3[0]
+FieldNameAlt: Address (number, street, and apartment number).
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: topmostSubform[0].Page1[0].p1-cb1[0]
+FieldNameAlt: If the above number is a social security number, check here.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].p1-t4[0]
+FieldNameAlt: City, state, and ZIP code.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].p1-t5[0]
+FieldNameAlt: Part 2. Name and Address of Person Requesting Part 1 Information (see instructions). Name, street address, apartment number, city, state, and ZIP code of person requesting information. 3 lines available for entry.
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: 
+FieldName: topmostSubform[0]
+FieldFlags: 0
+FieldJustification: Left
