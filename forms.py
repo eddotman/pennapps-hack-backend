@@ -156,8 +156,8 @@ def populate_fields(pdfname, inputs):
         
 
         for key in inputs.keys():
-          print "----------------------------------"
           if "[name]" in key:
+            print "----------------------------------"
             print "FIELDNAMEALT"
             print fieldnamealt
 
@@ -168,11 +168,6 @@ def populate_fields(pdfname, inputs):
             print "VALUE"
             print value
 
-            test1 = value in fieldnamealt
-            test2 = fieldnamealt in value
-            # print "TEST1 - " + str(test1)
-            # print "TEST2 - " + str(test2)
-
             key_num = key[7:9]
             print "KEYNUM"
             print key_num
@@ -182,6 +177,9 @@ def populate_fields(pdfname, inputs):
             val_first_word = value.split(" ")[0]
             print "VAL FISRT"
             print val_first_word
+
+            print "TEIDSAJL"
+            print val_first_word in fieldnamealt
 
             if val_first_word in fieldnamealt:
               fields.append((reference[fieldnamealt], inputs['inputs['+str(key_num)+'][value]']))
