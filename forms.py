@@ -117,7 +117,7 @@ def populate_fields(pdfname):
   while temp_raw.index('FieldName: ') is not None:
     idx = temp_raw.index('FieldName: ')
     temp_raw = temp_raw[:idx]
-    new_set = set(temp_raw[(idx + 11):temp_raw.index('\n'), "inputs['inputs["+str(i)+"][value]")
+    new_set = set(temp_raw[(idx + 11):temp_raw.index('\n')], "inputs['inputs["+str(i)+"][value]")
     fields.append(new_set)
     temp_raw = temp_raw[:temp_raw.index('\n')+1]
     i = i+1
