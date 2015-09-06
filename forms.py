@@ -186,6 +186,7 @@ def populate_fields(pdfname, inputs):
             #   break
 
           
-
+  print "FIELDS"
+  print fields
   
   return fields
