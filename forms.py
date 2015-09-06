@@ -111,17 +111,23 @@ def populate_fields(pdfname, inputs):
   pdf_url = 'pdftk pdfs/' + pdfname +  '.pdf dump_data_fields'
   result = subprocess.check_output(pdf_url, shell=True)
   raw_output_groups = result.split('---')
-  print "RAW OU"
-  print raw_output_groups
 
   reference = {}
   fields = []
 
   for group in raw_output_groups:
     temp_alt = group[group.index('FieldNameAlt: ')+14:]
+    print "TEMP_ALT"
+    print temp_alt
     fieldnamealt = temp_alt[:temp_alt.index('\n')]
+    print "FIELD_ALT"
+    print fieldnamealt
     temp_name = group[group.index('FieldName: ')+11:]
+    print "TEMPNAME"
+    print temp_name
     fieldname = temp_name[:group.index('\n')]
+    print "FIELDNAME"
+    print fieldname
     reference[fieldnamealt] = fieldname
 
 
