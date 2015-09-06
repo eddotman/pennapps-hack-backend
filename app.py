@@ -8,9 +8,9 @@ app = Flask(__name__)
 CORS(app)
 api = Api(app)
 
-@app.route('/pdfs/<path:path>')
-def pdfs(path):
-    return send_from_directory('pdfs', path)
+# @app.route('/pdfs/<path:path>')
+# def pdfs(path):
+#     return send_from_directory('pdfs', path)
 
 class Form(Resource):
   def get(self, form, lang):
