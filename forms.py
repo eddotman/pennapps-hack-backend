@@ -116,8 +116,9 @@ def populate_fields(pdfname, inputs):
   fields = []
 
   for group in raw_output_groups:
-    temp_alt = group[group.index('FieldNameAlt: ')+14:]
     print "TEMP_ALT"
+    temp_alt = group[group.index('FieldNameAlt: ')+14:]
+    
     print temp_alt
     fieldnamealt = temp_alt[:temp_alt.index('\n')]
     print "FIELD_ALT"
