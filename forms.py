@@ -154,7 +154,7 @@ def populate_fields(pdfname, inputs):
           print "KEY"
           print key
           print "VALUE"
-          print value
+          print value.decode("utf-8")
           if value in fieldnamealt or fieldnamealt in value:
             fields.append((reference[fieldnamealt], key))
             break
