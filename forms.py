@@ -110,13 +110,19 @@ def fill_w10(form, data):
 def populate_fields(pdfname, inputs):
   pdf_url = 'pdftk pdfs/' + pdfname +  '.pdf dump_data_fields'
   raw_output = subprocess.check_output(pdf_url, shell=True).split('\n')
+  print "RAW OUTPUT"
+  print raw_output
+  print "----------"
+  print "INPUTS"
+  print inputs
+  print "----------"
   fields = []
   i = 0
 
 
   for line in raw_output:
-    print "NEXT ITERATION"
-    print "LINE " + str(line)
+    # print "NEXT ITERATION"
+    # print "LINE " + str(line)
     try:
       matched =  bool(line.index('FieldName: ') is not None)
     except:

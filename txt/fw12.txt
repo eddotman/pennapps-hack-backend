@@ -1,0 +1,334 @@
+
+Form W-12 and Instructions 
+IRS Paid Preparer Tax Identification Number (PTIN) Application and Renewal
+(Rev. October 2014)
+Cat. No. 55906B
+
+Provided by the:
+Internal Revenue Service
+Alternative Media Center
+
+In 1 File
+Print pages 1-3 and 1-4
+
+Contents
+
+Section:  Page
+Form W-12:  1
+Instructions for Form W-12:  1
+   Future Developments:  1
+   What's New:  1
+   Reminders:  1
+   General Instructions:  1
+      Purpose of Form:  1
+      Use and Availability of Information on This Form:  1
+      Who Must File:  1
+      How to File:  1
+   Specific Instructions:  1
+
+This electronic edition contains the entire text of the print editions.
+
+<page 1>
+
+Form W-12
+IRS Paid Preparer Tax Identification Number (PTIN) Application and Renewal
+(Rev. October 2014)
+
+Information about Form W-12 and its separate instructions is available at www.irs.gov/w12.
+
+1 Name and PTIN
+
+(Print in ink or Type)
+First name ----; Middle name ----; Last name ----
+[--] Initial application
+[--] Renewal application (Enter PTIN: P ----)
+
+2 Year of Application/Renewal
+
+If you checked the Initial application box and are applying for a PTIN between Oct. 1 and Dec. 31, indicate below whether you want your PTIN to be valid for the current calendar year or the next calendar year.
+[--] Current calendar year
+[--] Next calendar year
+
+If you checked the Renewal application box and also need to renew for a previous calendar year, indicate the year below and see the line 2 instructions for additional guidance.
+Prior year(s): ----, ----, ---- (YYYY)
+
+3 SSN and Date of Birth
+SSN: ----; Date of birth (month, day, year): ----
+
+4 Personal Mailing Address and Phone Number
+Street address. Use a P.O. box number only if the post office does not deliver mail to your street address: ----
+City or town, state/province, and, if outside U.S., country. Include ZIP or postal code where appropriate. Do not abbreviate name of country: ----
+Phone Number: (----) ----
+
+5a Business Mailing Address and Phone Number
+Business address (if different than line 4 information above): ----
+Business city or town, state/province, and, if outside U.S., country. Include ZIP or postal code where appropriate. Do not abbreviate name of country: ----
+Domestic business phone number: (----) ---- Ext. ----
+International business phone number: ---- + ----
+
+5b Business Name and Website Address
+Enter the business name and website address (optional): ----
+
+6 Email Address
+Enter the email address that should be used to contact you: ----
+
+7 Past Felony Convictions
+
+Have you been convicted of a felony in the past 10 years? [--] Yes, [--] No
+
+If "Yes," list the date and the type of felony conviction(s): ----
+
+<page 2>
+
+8 Federal Tax Compliance
+
+Are you current on both your individual and business federal taxes, including any corporate and employment tax obligations? [--] Yes, [--] No
+
+If you have never filed a U.S. individual income tax return because you are not required to do so, check the "Yes" box.
+
+If "No," provide an explanation: ----
+
+9 Professional Credentials
+
+Check all that apply.  Enter state abbreviation and appropriate number(s):
+[--] Attorney--Licensed in which state(s): ----; Number(s): ----; Expiration Date(s): ----
+[--] Certified Public Accountant (CPA)--Licensed in which state(s): ----; Number(s): ----; Expiration Date(s): ----
+[--] Enrolled Agent (EA): ----; Number(s): ----; Expiration Date(s): ----
+[--] Enrolled Actuary: ----; Number(s): ----; Expiration Date(s): ----
+[--] Enrolled Retirement Plan Agent (ERPA): ----; Number(s): ----; Expiration Date(s): ----
+[--] State Regulated Tax Preparer--State(s): ----; Number(s): ----; Expiration Date(s): ----
+[--] Certified Acceptance Agent Number: ----
+[--] None
+
+Skip line 10 if you are an attorney, CPA, or EA.
+
+10 Form 1040 Preparation
+
+Do you prepare Form 1040 series tax returns (or accompanying schedules) for compensation? (If you ONLY prepare Form 1040-PR or Form 1040-SS for residents of Puerto Rico, check #No.#) [--] Yes, [--] No
+
+11 Business Name and Identification Numbers
+
+Are you self-employed or an owner, partner, or officer of a tax preparation business? [--] Yes, [--] No
+
+If you check "Yes," complete this line.  If you check "No," go to line 12.
+Enter the business name: ----
+Your CAF Number: ----; EIN: ----; EFIN: ----
+
+If this is your initial application for a PTIN, continue to line 12. If you are renewing your PTIN, go to line 14.
+
+12 Address of Your Last U.S. Individual Income Tax Return Filed
+Enter the address used on your last U.S. individual income tax return you filed: ----
+If you have never filed a U.S. federal income tax return or do not have a U.S. federal income tax filing requirement, check here [--]. See line 12 instructions for documents that must be submitted with this form and continue to line 14.
+
+<page 3>
+
+13 Filing Status and Tax Year on Last U.S. Individual Income Tax Return Filed
+[--] Single
+[--] Married filing jointly
+[--] Married filing separately
+[--] Head of Household
+[--] Qualifying widow(er) with dependent child
+Tax Year: ----
+
+If your last return was filed more than 4 years ago, see instructions.
+
+14 Fee
+
+If you are applying for a PTIN, your fee is $64.25. If you are renewing your PTIN, your fee is $63.00. The fee is an application processing fee and is nonrefundable. Full payment must be included with your application or it will be rejected. If your application is incomplete and you do not supply the required information upon request, the IRS will be unable to process your application. Make your check or money order payable to IRS Tax Pro PTIN Fee. Do not paper clip, staple, or otherwise attach the payment to Form W-12. A separate PTIN fee is required for each calendar year PTIN indicated on this application.
+PTIN application: $64.25
+PTIN renewal: $63.00
+
+Sign Here
+
+Under penalties of perjury, I declare that I have examined this application and to the best of my knowledge and belief, it is true, correct, and complete. I understand any false or misleading information may result in criminal penalties and/or the denial or termination of a PTIN.
+Your signature: ----
+Date (MM,DD,YYYY): -----
+
+<page 1>
+
+Instructions for Form W-12
+IRS Paid Preparer Tax Identification Number (PTIN) Application and Renewal
+(Rev. October 2014)
+
+Section references are to the Internal Revenue Code unless otherwise noted.
+
+Future Developments
+
+For the latest information about developments related to Form W-12 and its separate instructions, such as legislation enacted after they were published, go to www.irs.gov/w12.
+
+What's New
+
+Annual Filing Season Program (AFSP). This new, voluntary program is designed to encourage unenrolled paid tax return preparers (paid tax return preparers who are not attorneys, certified public accountants (CPAs), or enrolled agents (EAs)) to complete continuing education courses for the purpose of increasing their knowledge of the law relevant to federal tax returns. To participate in the program, an individual must obtain a PTIN and meet certain continuing education requirements for a specific tax year.
+
+For further information regarding the Annual Filing Season Program, visit www.irs.gov/Tax-Professionals/Annual-Filing-Season-Program.
+
+PTIN status. An individual who no longer practices before the Internal Revenue Service and who no longer prepares any federal tax returns for compensation may request his or her PTIN be placed in inactive status at any time. For more information on voluntarily inactivating or reactivating your PTIN, refer to the section below the line 1 instructions or review information available at www.irs.gov/ptin.
+
+Directory of Federal Tax Return Preparers with Credentials and Select Qualifications. By January 2015, the IRS plans to launch a public listing on the IRS website of PTIN holders who are attorneys, CPAs, enrolled agents, enrolled retirement plan agents, enrolled actuaries, as well as individuals who successfully completed the requirements to participate in the Annual Filing Season Program. The searchable listing will include the individual's name, city, state, and zip code.
+
+Reminders
+
+Telephone help. If you have questions about completing this form or the status of your application or renewal, you may call the following phone numbers. If calling from the U.S., call 1-877-613-PTIN (7846). For TTY/TDD assistance, call 1-877-613-3686. If calling internationally, call 1-915-342-5655 (not a toll-free number). Telephone help is generally available Monday through Friday from 8:00 a.m. to 5:00 p.m. Central time.
+
+Photographs of Missing Children
+
+The Internal Revenue Service is a proud partner with the National Center for Missing and Exploited Children. Photographs of missing children selected by the Center may appear in instructions on pages that would otherwise be blank. You can help bring these children home by looking at the photographs and calling 1-800-THE-LOST (1-800-843-5678) if you recognize a child.
+
+General Instructions
+
+Purpose of Form
+
+Use this form to apply for or renew a PTIN.
+
+Use and Availability of Information on This Form
+
+The Freedom of Information Act requires that certain information from this application be made available to the general public. This includes, but may not be limited to, the following information.
+-- Name.
+-- Business Name.
+-- Business Address.
+-- Business Phone Number.
+-- Business Website Address.
+-- Email Address.
+-- Professional Credentials.
+
+Who Must File
+
+Anyone who is a paid tax return preparer must apply for and receive a PTIN. Enrolled agents also must obtain a PTIN. The PTIN must be renewed annually. For purposes of determining who must obtain a PTIN, a tax return preparer is any individual who is compensated for preparing, or assisting in the preparation of, all or substantially all of a tax return or claim for refund of tax.
+
+How To File
+
+Online. Go to the webpage www.irs.gov/ptin for information. Follow the instructions to submit Form W-12 and pay the fee. If you submit your application online, your PTIN generally will be provided to you immediately after you complete the application and pay the required fee.
+
+By mail. Complete Form W-12. Send the form along with a check or money order for the fee to:
+IRS Tax Pro PTIN Processing Center
+104 Brookeridge Drive 5000
+Waterloo, IA 50702
+
+Allow 4 to 6 weeks for processing of paper Forms W-12.
+
+Specific Instructions
+
+It is important to follow these instructions. If your application is incomplete, the IRS will request that you supply the missing information within a specified time. The IRS will be unable to process your application if you do not provide the missing information.
+
+<page 2>
+
+Line 1. Enter your legal name. This entry should reflect your name as it appears on your tax return and as it will be entered on tax returns that you are paid to prepare. If you are renewing your PTIN, enter the PTIN you received after you first filed Form W-12.
+
+Voluntarily Inactivate PTIN. An individual who does not expect to prepare federal tax returns for compensation for a full calendar year may request to be placed in an inactive status.
+
+Note. Enrolled agents must maintain a current PTIN in order to maintain their EA credential and should not inactivate their PTIN unless they retire.
+
+If you reactivate your PTIN later, you must pay the renewal fee for the year of reactivation.
+
+You can inactivate your PTIN by accessing your online PTIN account at www.irs.gov/ptin and selecting the Inactive PTIN function under the Manage My PTIN Account section. You can reactivate your PTIN within three years by selecting the "Reactive PTIN" function in your online PTIN account.
+
+If you do not have an online account, you may call the number listed under the Telephone help earlier, for additional assistance.
+
+Line 2. If you are applying for a new PTIN after October 1, you must indicate whether you want your PTIN to be valid for the current calendar year or the next calendar year. If you select the current calendar year, your PTIN is valid until December 31 of the current year. If you select the next calendar year, your PTIN will not be valid until January 1 of the next calendar year.
+
+Note. If you do not select a calendar year, then your PTIN application will be processed for the current calendar year.
+
+Prior Year Renewals. If you checked Renewal and need to renew for a prior calendar year, you must indicate this by selecting the prior year box and list each prior calendar year(s) in the space provided. One completed Form W-12 is allowed, however, separate payments must be enclosed for each calendar year.
+
+If your PTIN has been in an expired status for more than one full calendar year, you must renew for each previously expired year unless you were inactive during any one of those calendar years.
+
+If you were inactive during any one of those prior calendar years but did not place your PTIN into voluntary inactive status, you can retroactively do so by following the instructions under Voluntarily Inactivate PTIN, earlier.
+
+Note. If your PTIN has been inactive or expired for more than three consecutive years, you must submit a new registration application and pay the applicable fee to obtain an active PTIN.
+
+Line 3. Enter your social security number (SSN) and date of birth. Applicants must be at least 18 years of age to apply.
+
+Applying without an SSN. If you do not have an SSN because you are either a foreign person or a U.S. citizen who is a conscientious religious objector, you will need to complete and submit an additional form along with Form W-12. Also, because of the documentation that must accompany the submission, you must send the additional form and documentation by mail. See the instructions below that pertain to your circumstance.
+
+U.S. citizen who is a conscientious religious objector. If you are a U.S. citizen who does not have an SSN because you have a conscientious religious objection to having an SSN, you must complete an additional form as part of the PTIN application process. The form you must complete is Form 8945, PTIN Supplemental Application For U.S. Citizens Without a Social Security Number Due To Conscientious Religious Objection. On Form 8945, you will verify information about your identity, citizenship, and conscientious religious objection. See Form 8945 for instructions on completing and submitting the form and the required documents.
+
+Foreign persons. If you are a foreign person who does not have an SSN, you must complete an additional form as part of the PTIN application process. A foreign person is an individual who does not have and is not eligible to obtain a social security number and is neither a citizen of the United States nor a resident alien of the United States as defined in section 7701(b)(1)(A). The form you must complete is Form 8946, PTIN Supplemental Application For Foreign Persons Without a Social Security Number. On Form 8946, you will verify information about your foreign status and identity. See Form 8946 for instructions on completing and submitting the form and the required documents.
+
+Note. Line 2 of Form 8946 must contain a non-U.S. physical address. This address cannot be a P.O. box. If a P.O. box is listed on line 2 of the Form 8946, your application will be rejected and returned to you.
+
+Renewing without an SSN. You do not need to resubmit Form 8945 or Form 8946. However, you are required to enter your date of birth on line 3 of Form W-12.
+
+Line 4. Enter your complete personal mailing address and phone number.
+
+Note. If the U.S. Postal Service will not deliver mail to your physical location, enter the U.S. Postal Service post office box number for your mailing address. Contact your local U.S. Post Office for more information. Do not use a post office box owned by a private firm or company. Most PTIN correspondence will be sent to your email address. However, any paper PTIN correspondence will be sent to the personal mailing address listed on line 4.
+
+Line 5a. Enter the address for the main business at which you are employed. Only enter your business address if it is different than the address entered on line 4. Entering the business phone number is optional.
+
+Line 5b. Entering the business name and website address is optional.
+
+Line 6. Enter the email address we should use if we need to contact you about matters regarding this form.
+
+We will also send PTIN related emails with general information, reminders, and requirements. Any valid email address that you check regularly for PTIN communications is acceptable.
+
+<page 3>
+
+Line 7. You are required to fully disclose any information concerning prior felony convictions. A felony conviction may not necessarily disqualify you from having a PTIN. However, generally, a person who is currently incarcerated for any felony conviction will not be permitted to obtain or renew a PTIN.
+
+Use the space in line 7 to provide details of your prior felony conviction(s). Providing false or misleading information on this form is a criminal offense that may result in prosecution and criminal penalties. All facts and circumstances will be considered. You will be contacted if additional information is needed.
+
+Line 8. Taxpayers are required to be in full compliance with federal tax laws, including filing all returns and paying all taxes, or making payment arrangements acceptable to the IRS. The filing of a tax return and the payment of the tax liability associated with that return are two separate and distinct requirements under the Internal Revenue Code, which must be satisfied within the periods specified for each taxable period in which you have a legal obligation to file.
+
+Use the space in line 8 to provide the details of any noncompliance, including the steps you have taken to resolve the issue. Providing false or misleading information on this form is a criminal offense that may result in prosecution and criminal penalties. In addition, providing false or misleading information is a separate ground to deny your application for a PTIN or terminate it after it has been assigned. All the facts and circumstances as related in your explanation will be considered. You will be contacted if additional information is needed.
+
+If you have never filed a U.S. individual income tax return because you are not required to do so, check the "Yes" box.
+
+Line 9. Check the appropriate boxes to indicate your professional credentials. Check all that apply. Include the licensing number, jurisdiction, and expiration date. Recognized professional credentials include attorney, certified public accountant (CPA), enrolled agent (EA), enrolled actuary, enrolled retirement plan agent (ERPA), state regulated tax return preparer, or a certified acceptance agent (CAA). Any other professional credential is not necessary to add to your PTIN application. If you do not have any professional credentials, check the "None" box.
+
+Note. Once you complete the requirements to participate in the Annual Filing Season Program, the IRS will add this to your PTIN account. See more information about the program listed under the What's New section above.
+
+Attorney. An attorney is any person who is a member in good standing of the bar of the highest court of any state, territory, or possession of the United States, including a Commonwealth, or the District of Columbia.
+
+Certified public accountant (CPA). A CPA is any person who is duly qualified to practice as a CPA in any state, territory, or possession of the United States, including a Commonwealth, or the District of Columbia.
+
+Enrolled agent (EA). An EA is any individual enrolled as an agent who is not currently under suspension or disbarment from practice before the IRS.
+
+Enrolled actuary. An enrolled actuary is any individual who is enrolled as an actuary by the Joint Board for the Enrollment of Actuaries pursuant to 29 U.S.C. 1242 who is not currently under suspension or disbarment from practice before the IRS. Also, the enrolled actuary must file with the IRS a written declaration stating that he or she is currently qualified as an enrolled actuary and is authorized to represent the party or parties on whose behalf he or she acts.
+
+Enrolled retirement plan agent (ERPA). An ERPA is any individual enrolled as a retirement plan agent who is not currently under suspension or disbarment from practice before the IRS.
+
+Certified Acceptance Agents (CAA). A Certified Acceptance Agent (CAA) can verify the original and, also, certified copies of identifying documents for applicants. CAAs should enter either their Electronic Filer Identification Number (EFIN) or the eight digit office code assigned to them via the CAA application process.
+
+CAUTION: Skip line 10 if you are an attorney, CPA, or EA.
+
+Line 11. If you are self-employed or an owner, partner, or officer of a tax return preparation business, please enter your applicable identification numbers. Make sure to enter any alphabetic letters that are part of your CAF number. If you have multiple EINs or EFINs, enter the number that is used most frequently on returns you prepare. Entering the business name is optional.
+
+Line 12. If you have a social security number and are requesting a PTIN, but have never filed a U.S. federal income tax return, have not filed a U.S. federal income tax return in the past 4 years, or do not have a U.S. federal income tax filing requirement (such as certain individuals from Puerto Rico), you must complete and submit your application on a paper Form W-12. You must submit an original, certified, or notarized copy of your social security card along with one other government-issued document that contains a current photo ID. Examples of acceptable supporting documents are listed below. All documents must be current, original, certified, or notarized, and must verify your name. If you submit copies of documents that display information on both sides, copies of both the front and back of the document must be attached to the Form W-12. Send the completed Form W-12 and applicable fee with the required documentation to the mailing address listed under How To File, earlier. If your application is not complete and you do not supply the required information upon request, the IRS will be unable to process your application.
+
+Examples of acceptable supporting documents.
+-- Passport/Passport Card
+-- Driver's License
+-- U.S. State ID Card
+-- Military ID Card
+-- National ID Card
+
+<page 4>
+
+TIP: To avoid any loss of your original documents, it is suggested you do not submit the original documentation.
+
+Submitting copies of the document along with Form W-12. You can submit original documents, certified copies, or notarized copies. A certified document is one that the original issuing agency provides and certifies as an exact copy of the original document and contains an official seal from the Agency. All certifications must stay attached to the copies of the documents when they are sent to the IRS.
+
+CAUTION: If submitting Form 8945 or Form 8946 with the Form W-12, refer to those form instructions for required documentation.
+
+A notarized document is one that has been notarized by a U.S. notary public or a foreign notary legally authorized within his or her local jurisdiction to certify that each document is a true copy of the original. To do this, the notary must see the valid, unaltered, original documents and verify that the copies conform to the original. Preparers must send the copy that bears the mark (stamp, signature, etc.) of the notary. Photocopies or faxes of notarized documents are not acceptable.
+
+Line 13. If you filed your most recent individual income tax return more than 4 years ago, see line 12, above, for information on how to submit Form W-12 and the supporting identification documents that must accompany your submission.
+
+Line 14. Payment of the appropriate application processing fee(s) must accompany this form or it will be rejected. If you are applying for a PTIN, your fee is $64.25. If you are renewing your PTIN, your fee is $63.00. This fee is nonrefundable. A separate PTIN fee must be submitted for each calendar year PTIN indicated on the form. Make your check or money order payable to "IRS Tax Pro PTIN Fee." Do not paper clip, staple, or otherwise attach the payment to Form W-12.
+
+Signature. The completed Form W-12 must be signed and dated by the applicant.
+
+Privacy Act and Paperwork Reduction Act Notice
+
+We ask for the information on this form to carry out the Internal Revenue laws of the United States. This information will be used to issue a Preparer Tax Identification Number (PTIN). Our authority to collect this information is found in section 3710 of the Internal Revenue Service Restructuring and Reform Act of 1998 and Internal Revenue Code section 6109. Under section 6109, return preparers are required to provide their identification number on what they prepare. Applying for a PTIN is mandatory if you prepare U.S. tax returns for compensation. Providing incomplete information may delay or prevent processing of this application; providing false or fraudulent information may subject you to penalties.
+
+You are not required to provide the information requested on a form that is subject to the Paperwork Reduction Act unless the form displays a valid OMB control number. Books or records relating to a form or its instructions must be retained as long as their contents may become material in the administration of any Internal Revenue law. Generally, the information you provide on this form is confidential pursuant to the Privacy Act of 1974, and tax returns and return information are confidential pursuant to Code section 6103. However, we are authorized to disclose this information to contractors to perform the contract, to the Department of Justice for civil and criminal litigation, and to cities, states, the District of Columbia, and U.S. commonwealths and possessions for use in their return preparer oversight activities and administration of their tax laws. We may also disclose this information to other countries under a tax treaty, to federal and state agencies to enforce federal nontax criminal laws, to federal law enforcement and intelligence agencies to combat terrorism, or to the general public to assist them in identifying those individuals authorized by the IRS to prepare tax returns or claims for refund.
+
+The time needed to complete and file this form will vary depending on individual circumstances. The estimated burden for those who file this form is shown below.
+Recordkeeping: 6 hr., 56 min.
+Learning about the law or the form: 35 min.
+Preparing and sending the form: 44 min.
+
+If you have comments concerning the accuracy of these time estimates or suggestions for making this form simpler, we would be happy to hear from you. You can send us comments from www.irs.gov/formspubs. Click on More Information and then click on Give us feedback. Or you can send your comments to the Internal Revenue Service, Tax Forms and Publications Division, 1111 Constitution Ave. NW, IR-6526, Washington, DC 20224. Do not send Form W-12 to this address. Instead, see Where To File, earlier.
+
+End of Form W-12 and Instructions
+
