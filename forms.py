@@ -113,7 +113,7 @@ def populate_fields(pdfname, inputs):
   pdf_url = 'pdftk pdfs/' + pdfname +  '.pdf dump_data_fields'
   result = subprocess.check_output(pdf_url, shell=True)
   raw_output_groups = result.split('---')
-  # print raw_output_groups
+  print raw_output_groups
 
   reference = {}
   fields = []
@@ -143,9 +143,9 @@ def populate_fields(pdfname, inputs):
   # print "INPUTS"
   # print inputs
   raw_output = result.split('\n')
-  print "RAW_OUTPUT"
-  print raw_output
-  print "-----------------------"
+  # print "RAW_OUTPUT"
+  # print raw_output
+  # print "-----------------------"
 
   print "IOASNDLK"
   print inputs.keys()
