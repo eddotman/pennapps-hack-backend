@@ -92,8 +92,8 @@ def fill_w10(form, data):
   inputs = formencode.variabledecode.variable_decode(data)
   # print "inputs", inputs
   fields = populate_fields(form, inputs)
-  print "FIELDS"
-  print fields
+  # print "FIELDS"
+  # print fields
   # fields = [
   #   ('topmostSubform[0].Page1[0].p1-t1[0]', inputs['inputs[0][value]']),
   #   ('topmostSubform[0].Page1[0].p1-t2[0]', inputs['inputs[1][value]']),
@@ -113,7 +113,7 @@ def populate_fields(pdfname, inputs):
   pdf_url = 'pdftk pdfs/' + pdfname +  '.pdf dump_data_fields'
   result = subprocess.check_output(pdf_url, shell=True)
   raw_output_groups = result.split('---')
-  print result
+  # print result
 
   reference = {}
   fields = []
