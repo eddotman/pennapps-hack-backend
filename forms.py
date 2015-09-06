@@ -88,12 +88,12 @@ def save_form_json(form, data):
 
 def fill_w10(form, data):
   fields = [
-    ('topmostSubform[0].Page1[0].p1-t1[0]', data['data']['inputs'][0]['value']),
-    ('topmostSubform[0].Page1[0].p1-t2[0]', data['data']['inputs'][1]['value']),
-    ('topmostSubform[0].Page1[0].p1-t3[0]', data['data']['inputs'][2]['value']),
-    ('topmostSubform[0].Page1[0].p1-cb1[0]', data['data']['inputs'][3]['value']),
-    ('topmostSubform[0].Page1[0].p1-t4[0]', data['data']['inputs'][4]['value']),
-    ('topmostSubform[0].Page1[0].p1-t5[0]', data['data']['inputs'][5]['value']),
+    ('topmostSubform[0].Page1[0].p1-t1[0]', data['inputs'][0]['value']),
+    ('topmostSubform[0].Page1[0].p1-t2[0]', data['inputs'][1]['value']),
+    ('topmostSubform[0].Page1[0].p1-t3[0]', data['inputs'][2]['value']),
+    ('topmostSubform[0].Page1[0].p1-cb1[0]', data['inputs'][3]['value']),
+    ('topmostSubform[0].Page1[0].p1-t4[0]', data['inputs'][4]['value']),
+    ('topmostSubform[0].Page1[0].p1-t5[0]', data['inputs'][5]['value']),
   ]
   fdf = forge_fdf("",fields,[],[],[])
   fdf_file = open("data.fdf","wb")
