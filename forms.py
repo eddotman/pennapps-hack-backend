@@ -98,7 +98,7 @@ def fill_w10(form, data):
   fdf_file = open("data.fdf","wb")
   fdf_file.write(fdf)
   fdf_file.close()
-  call(['pdftk pdfs/' + form + '.pdf fill_form data.fdf output output.pdf flatten'], shell=True)
+  call(['pdftk pdfs/' + form + '.pdf fill_form data.fdf output pdfs/output.pdf flatten'], shell=True)
 
 
 # request_form('f1120w15', 'en-ko')
