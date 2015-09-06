@@ -18,7 +18,7 @@ class Form(Resource):
     return request_form(form, lang)
 
   def post(self, form):
-    form_data = json.loads(request.form)
+    form_data = request.form
     save_form_json(form, form_data)
     return 'SUCCESS:' + str(form_data)
 
