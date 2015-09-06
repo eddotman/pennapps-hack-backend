@@ -117,8 +117,11 @@ def populate_fields(pdfname):
   for line in raw_output:
     print "NEXT ITERATION"
     print "LINE " + str(line)
-    print str(line).index('FieldName')
-    if(str(line).index('FieldName') is not None):
+    try:
+      matched =  bool(line.index('FieldName') is not None)
+    except:
+      matched = False
+    if(matched):
       new_set = (temp_raw[11:], "inputs['inputs["+str(i)+"][value]")
       fields.append(new_set)
       i += 1
