@@ -3,6 +3,7 @@ from flask_restful import reqparse, request, abort, Api, Resource
 from flask.ext.cors import CORS
 from forms import (request_form, save_form_json, fill_w10)
 import os
+import json
 
 app = Flask(__name__)
 CORS(app)
@@ -17,7 +18,7 @@ class Form(Resource):
     return request_form(form, lang)
 
   def post(self, form):
-    form_data = request.form['data']
+    form_data = json.loads(request.form)
     save_form_json(form, form_data)
     return 'SUCCESS:' + str(form_data)
 
