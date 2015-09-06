@@ -87,7 +87,7 @@ def save_form_json(form, data):
 
 def fill_w10(form, data):
   print "data", data
-  inputs = data.getlist('inputs')
+  inputs = data.getlist(inputs[0]['value'])
   print "inputs", inputs
   fields = [
     ('topmostSubform[0].Page1[0].p1-t1[0]', inputs[0]['value']),
