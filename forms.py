@@ -78,6 +78,7 @@ def translate_text(text, lang):
 
 def save_form_json(form, data):
   try:
+    print data
     fill_w10(form, data)
   except:
     with open('jsons/' + str(form) + '.json', 'wb') as f:
