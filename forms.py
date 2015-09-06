@@ -3,6 +3,7 @@ from requests import post
 from os import environ
 from re import match, search
 from json import loads, dumps
+from fdfgen import forge_fdf
 
 def request_form(form, lang): 
   txtform = None
@@ -79,5 +80,16 @@ def save_form_json(form, data):
     f.write(dumps(data, indent=2, sort_keys=True))
   return True
 
-# request_form('f1120w15', 'en-ko')
+def fill_pdf():
+  fields = [
+    ('topmostSubform[0].Page1[0].f1_1[0]', 'John Smith'),
+    ('topmostSubform[0].Page1[0].f1_2[0]', '555-1234'),
+    ('topmostSubform[0].Page1[0].FederalClassification[0].c1_1[0]', '1'),
+  ]
+  fdf = forge_fdf("",fields,[],[],[])
+  fdf_file = open("data.fdf","wb")
+  fdf_file.write(fdf)
+  fdf_file.close()
 
+# request_form('f1120w15', 'en-ko')
+# fill_pdf()
