@@ -138,12 +138,12 @@ def populate_fields(pdfname, inputs):
         # print "REFERENCE"
         # print reference
 
-  print "INPUTS"
-  print inputs
+  # print "INPUTS"
+  # print inputs
   raw_output = result.split('\n')
-  print "RAW_OUTPUT"
-  print raw_output
-  print "-----------------------"
+  # print "RAW_OUTPUT"
+  # print raw_output
+  # print "-----------------------"
 
   print "IOASNDLK"
   print inputs.keys()
@@ -155,18 +155,18 @@ def populate_fields(pdfname, inputs):
         print fieldnamealt
 
         for key in inputs.keys():
-          if "[name]" not in key:
-            pass
-          print "KEY"
-          print key
+          if "[name]" in key:
+            print "KEY"
+            print key
 
-          value = inputs[key+""]
-          print "VALUE"
-          print value
+            value = inputs[key]
+            print "VALUE"
+            print value
 
-          if value in fieldnamealt or fieldnamealt in value:
-            fields.append((reference[fieldnamealt], key))
-            pass
+            if value in fieldnamealt or fieldnamealt in value:
+              fields.append((reference[fieldnamealt], key))
+              continue
+
           
 
   print "FIELDS"
