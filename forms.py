@@ -184,7 +184,7 @@ def populate_fields(pdfname, inputs):
             if val_first_word in fieldnamealt:
               fields.append((reference[fieldnamealt], inputs['inputs['+str(key_num)+'][value]']))
               print "Success!"
-              # break
+              continue
 
             
               
